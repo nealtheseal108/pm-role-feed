@@ -1,5 +1,5 @@
 {
-  "updated": 1792599472,
+  "updated": 1792618694,
   "count": 9,
   "nyc": 1,
   "roles": [
@@ -21,14 +21,6 @@
     },
     {
       "company": "IBM",
-      "title": "Product Management Intern | Infrastructure Growth & Innovation - Poughkeepsie, NY / Austin, TX - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131158&source=WEB_Search_NA",
-      "location": "",
-      "nyc": true,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Product Manager Intern 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA",
       "location": "",
@@ -37,16 +29,24 @@
     },
     {
       "company": "IBM",
-      "title": "Product Manager Intern 2027 - BELLEVUE",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134108&source=WEB_Search_NA",
+      "title": "Product Management Intern | Infrastructure Growth & Innovation - Poughkeepsie, NY / Austin, TX - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131158&source=WEB_Search_NA",
       "location": "",
-      "nyc": false,
+      "nyc": true,
       "src": "careerpage"
     },
     {
       "company": "IBM",
       "title": "Product Manager Intern 2027 - Lowell",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132983&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027 - BELLEVUE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134108&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"

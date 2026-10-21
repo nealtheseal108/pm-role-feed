@@ -1,6 +1,6 @@
 {
-  "updated": 1792599551,
-  "count": 22,
+  "updated": 1792618774,
+  "count": 21,
   "nyc": 1,
   "roles": [
     {
@@ -30,9 +30,17 @@
     {
       "company": "IBM",
       "title": "AI Software Engineer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137400&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Software Developer Intern-Poughkeepsie, NY",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130113&source=WEB_Search_NA",
+      "location": "",
+      "nyc": true,
       "src": "careerpage"
     },
     {
@@ -53,14 +61,6 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern-Poughkeepsie, NY",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130113&source=WEB_Search_NA",
-      "location": "",
-      "nyc": true,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
       "location": "",
@@ -77,14 +77,6 @@
     },
     {
       "company": "IBM",
-      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Software Developer Intern 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128497&source=WEB_Search_NA",
       "location": "",
@@ -92,9 +84,9 @@
       "src": "careerpage"
     },
     {
-      "company": "SAP",
-      "title": "SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai",
-      "url": "https://jobs.sap.com/en/jobs/744000156746369/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/",
+      "company": "IBM",
+      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
