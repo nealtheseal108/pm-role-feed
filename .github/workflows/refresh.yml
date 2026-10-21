@@ -1,0 +1,66 @@
+name: refresh-feed
+
+# Scrapes public ATS boards, company career pages and public internship trackers for
+# PM and SWE internship postings, then commits the raw feed. Public repo, so standard
+# runners cost nothing. No personal data lives here.
+
+on:
+  schedule:
+    - cron: "0 2,10,18 * * *"   # every 8h (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Playwright + Chromium
+        run: |
+          cd recruiting
+          npm install playwright@1.61.1
+          npx playwright install --with-deps chromium
+
+      - name: Scrape ATS boards + trackers (PM + SWE)
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          python3 recruiting/scraper.py || true
+          TRACK=swe python3 recruiting/scraper.py || true
+
+      - name: Scrape custom career pages (Playwright, PM + SWE)
+        run: |
+          cd recruiting
+          TRACK=pm node pw-scraper.js || true
+          TRACK=swe node pw-scraper.js || true
+
+      - name: Commit & push refreshed feed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add public recruiting/*.json recruiting/*.jsonl *.json
+          git commit -m "refresh feed" || { echo "no changes"; exit 0; }
+          git push
+
+      - name: Tell the private site to rebuild (optional)
+        env:
+          HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$HOOK" ]; then curl -fsS -X POST "$HOOK" > /dev/null && echo "deploy hook sent"; else echo "no deploy hook set"; fi

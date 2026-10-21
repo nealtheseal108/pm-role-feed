@@ -1,0 +1,4 @@
+node_modules/
+recruiting/node_modules/
+recruiting/.slack-session.json
+.DS_Store

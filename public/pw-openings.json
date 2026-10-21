@@ -1,0 +1,87 @@
+{
+  "updated": 1791961849,
+  "count": 10,
+  "nyc": 1,
+  "roles": [
+    {
+      "company": "Amazon",
+      "title": "Product Manager Technical (PMT) Intern - Summer 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Management Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136426&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Management Intern | Infrastructure Growth & Innovation - Poughkeepsie, NY / Austin, TX - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131158&source=WEB_Search_NA",
+      "location": "",
+      "nyc": true,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027 - BELLEVUE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134108&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027 - Lowell",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132983&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027 - One Madison",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133468&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern - RTP 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129913&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Audible",
+      "title": "Product Managment Internship",
+      "url": "https://www.audiblecareers.com/tech-internships",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "AMD",
+      "title": "Summer 2027 Long Term Product Management Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/90411?lang=en-us",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    }
+  ]
+}
