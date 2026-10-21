@@ -1,7 +1,7 @@
 {
-  "updated": 1791961934,
-  "count": 25,
-  "nyc": 0,
+  "updated": 1792599551,
+  "count": 22,
+  "nyc": 1,
   "roles": [
     {
       "company": "Epic Systems",
@@ -14,7 +14,7 @@
     {
       "company": "Garmin",
       "title": "SOFTWARE ENGINEER INTERN",
-      "url": "https://careers.garmin.com/jobs/19858?lang=en-us&previousLocale=en-US",
+      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -29,16 +29,8 @@
     },
     {
       "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Software Engineering Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131545&source=WEB_Search_NA",
+      "title": "AI Software Engineer Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -61,16 +53,24 @@
     },
     {
       "company": "IBM",
-      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
+      "title": "Software Developer Intern-Poughkeepsie, NY",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130113&source=WEB_Search_NA",
+      "location": "",
+      "nyc": true,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128497&source=WEB_Search_NA",
+      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -85,8 +85,16 @@
     },
     {
       "company": "IBM",
-      "title": "Sales Configuration Developer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135618&source=WEB_Search_NA",
+      "title": "Software Developer Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128497&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "SAP",
+      "title": "SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai",
+      "url": "https://jobs.sap.com/en/jobs/744000156746369/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -102,6 +110,22 @@
     {
       "company": "Google",
       "title": "Share Software Engineering Intern, 2027 (English)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineering Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Share Software Engineering Intern, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
       "location": "",
       "nyc": false,
@@ -151,54 +175,6 @@
       "company": "Google",
       "title": "Share Part-Time Software Engineering BS/MS Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Software Engineer Internship Opportunities",
-      "url": "https://careers.microsoft.com/students/us/en/search-results?keywords=software%20engineer%20intern",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
-      "url": "https://careers.servicenow.com/jobs/744000155364528/software-engineer/",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "AI Engineering - Software Engineer Internships - Summer 2027 (Masters)",
-      "url": "https://careers.servicenow.com/jobs/744000155364528/software-engineer/",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Citadel",
-      "title": "Software Engineer – Intern (US)",
-      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Citadel",
-      "title": "Software Engineer – Intern (Europe)",
-      "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Citadel",
-      "title": "Software Engineer – Intern (Asia)",
-      "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
       "location": "",
       "nyc": false,
       "src": "careerpage"

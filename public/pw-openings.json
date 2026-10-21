@@ -1,6 +1,6 @@
 {
-  "updated": 1791961849,
-  "count": 10,
+  "updated": 1792599472,
+  "count": 9,
   "nyc": 1,
   "roles": [
     {
@@ -55,14 +55,6 @@
       "company": "IBM",
       "title": "Product Manager Intern 2027 - One Madison",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133468&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Product Manager Intern - RTP 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129913&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
