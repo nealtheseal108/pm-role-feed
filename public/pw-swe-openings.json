@@ -1,12 +1,20 @@
 {
-  "updated": 1792682572,
-  "count": 21,
+  "updated": 1792704963,
+  "count": 24,
   "nyc": 1,
   "roles": [
     {
       "company": "Epic Systems",
       "title": "Software Developer Intern - Summer 2027",
       "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer/740",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Garmin",
+      "title": "SOFTWARE ENGINEER INTERN",
+      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -84,9 +92,17 @@
       "src": "careerpage"
     },
     {
-      "company": "Garmin",
-      "title": "SOFTWARE ENGINEER INTERN",
-      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
+      "company": "Google",
+      "title": "Software Engineering Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Share Software Engineering Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -102,22 +118,6 @@
     {
       "company": "Google",
       "title": "Share Software Engineering Intern, 2027 (English)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineering Intern, Summer 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027?employment_type=INTERN&q=software%20engineering%20intern",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Google",
-      "title": "Share Software Engineering Intern, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
       "location": "",
       "nyc": false,
@@ -167,6 +167,30 @@
       "company": "Google",
       "title": "Share Part-Time Software Engineering BS/MS Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Citadel",
+      "title": "Software Engineer – Intern (US)",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Citadel",
+      "title": "Software Engineer – Intern (Europe)",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Citadel",
+      "title": "Software Engineer – Intern (Asia)",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
       "location": "",
       "nyc": false,
       "src": "careerpage"
