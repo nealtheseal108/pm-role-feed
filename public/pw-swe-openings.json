@@ -1,5 +1,5 @@
 {
-  "updated": 1792704963,
+  "updated": 1792709571,
   "count": 24,
   "nyc": 1,
   "roles": [
@@ -7,14 +7,6 @@
       "company": "Epic Systems",
       "title": "Software Developer Intern - Summer 2027",
       "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer/740",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Garmin",
-      "title": "SOFTWARE ENGINEER INTERN",
-      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -37,14 +29,6 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern-Rochester, MN",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Software Developer Intern/Tucson-AZ",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
       "location": "",
@@ -53,8 +37,8 @@
     },
     {
       "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
+      "title": "Software Developer Intern-Rochester, MN",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -65,6 +49,14 @@
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130113&source=WEB_Search_NA",
       "location": "",
       "nyc": true,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
       "src": "careerpage"
     },
     {
@@ -87,6 +79,14 @@
       "company": "IBM",
       "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Garmin",
+      "title": "SOFTWARE ENGINEER INTERN",
+      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
