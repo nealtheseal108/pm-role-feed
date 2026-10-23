@@ -1,6 +1,6 @@
 {
-  "updated": 1792740131,
-  "count": 22,
+  "updated": 1792767828,
+  "count": 24,
   "nyc": 1,
   "roles": [
     {
@@ -30,7 +30,7 @@
     {
       "company": "IBM",
       "title": "AI Software Engineer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137400&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -53,18 +53,18 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern-Poughkeepsie, NY",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130113&source=WEB_Search_NA",
-      "location": "",
-      "nyc": true,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Software Developer Intern/Tucson-AZ",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Software Developer Intern-Poughkeepsie, NY",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130113&source=WEB_Search_NA",
+      "location": "",
+      "nyc": true,
       "src": "careerpage"
     },
     {
@@ -87,14 +87,6 @@
       "company": "IBM",
       "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "SAP",
-      "title": "SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai",
-      "url": "https://jobs.sap.com/en/jobs/744000157379640/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -175,6 +167,30 @@
       "company": "Google",
       "title": "Share Part-Time Software Engineering BS/MS Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Citadel",
+      "title": "Software Engineer – Intern (US)",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Citadel",
+      "title": "Software Engineer – Intern (Europe)",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Citadel",
+      "title": "Software Engineer – Intern (Asia)",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
       "location": "",
       "nyc": false,
       "src": "careerpage"
