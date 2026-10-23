@@ -1,6 +1,6 @@
 {
-  "updated": 1792767828,
-  "count": 24,
+  "updated": 1792783797,
+  "count": 25,
   "nyc": 1,
   "roles": [
     {
@@ -30,7 +30,7 @@
     {
       "company": "IBM",
       "title": "AI Software Engineer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137400&source=WEB_Search_NA",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -41,6 +41,14 @@
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Software Developer Intern-Poughkeepsie, NY",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130113&source=WEB_Search_NA",
+      "location": "",
+      "nyc": true,
       "src": "careerpage"
     },
     {
@@ -61,16 +69,16 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern-Poughkeepsie, NY",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130113&source=WEB_Search_NA",
+      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
       "location": "",
-      "nyc": true,
+      "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
+      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -85,24 +93,8 @@
     },
     {
       "company": "IBM",
-      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineering Intern, Summer 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027?employment_type=INTERN&q=software%20engineering%20intern",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Google",
-      "title": "Share Software Engineering Intern, Summer 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
+      "title": "Sales Configuration Developer Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135618&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -118,6 +110,22 @@
     {
       "company": "Google",
       "title": "Share Software Engineering Intern, 2027 (English)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineering Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Share Software Engineering Intern, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
       "location": "",
       "nyc": false,
