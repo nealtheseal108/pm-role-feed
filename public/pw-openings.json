@@ -1,7 +1,7 @@
 {
-  "updated": 1792783718,
-  "count": 10,
-  "nyc": 1,
+  "updated": 1792790522,
+  "count": 9,
+  "nyc": 0,
   "roles": [
     {
       "company": "Amazon",
@@ -25,14 +25,6 @@
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136426&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Product Management Intern | Infrastructure Growth & Innovation - Poughkeepsie, NY / Austin, TX - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131158&source=WEB_Search_NA",
-      "location": "",
-      "nyc": true,
       "src": "careerpage"
     },
     {
