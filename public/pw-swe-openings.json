@@ -1,6 +1,6 @@
 {
-  "updated": 1792825964,
-  "count": 22,
+  "updated": 1792851293,
+  "count": 23,
   "nyc": 0,
   "roles": [
     {
@@ -22,7 +22,7 @@
     {
       "company": "IBM",
       "title": "AI Software Engineer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137400&source=WEB_Search_NA",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -45,16 +45,16 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128497&source=WEB_Search_NA",
+      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
+      "title": "Software Developer Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128497&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -68,25 +68,17 @@
       "src": "careerpage"
     },
     {
+      "company": "IBM",
+      "title": "Software Developer Intern 2027 - CAMBRIDGE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
       "company": "Garmin",
       "title": "SOFTWARE ENGINEER INTERN",
       "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineering Intern, 2027 (English)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/104489346874122950-software-engineering-intern-2027-english?employment_type=INTERN&q=software%20engineering%20intern",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Google",
-      "title": "Share Software Engineering Intern, 2027 (English)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -102,6 +94,22 @@
     {
       "company": "Google",
       "title": "Share Software Engineering Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineering Intern, 2027 (English)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/104489346874122950-software-engineering-intern-2027-english?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Share Software Engineering Intern, 2027 (English)",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
       "location": "",
       "nyc": false,
