@@ -1,6 +1,6 @@
 {
-  "updated": 1792913983,
-  "count": 23,
+  "updated": 1792938465,
+  "count": 22,
   "nyc": 0,
   "roles": [
     {
@@ -71,14 +71,6 @@
       "company": "IBM",
       "title": "Sales Configuration Developer Intern 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135618&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Software Developer - Security - Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131988&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
