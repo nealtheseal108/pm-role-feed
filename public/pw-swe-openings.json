@@ -1,6 +1,6 @@
 {
-  "updated": 1792949051,
-  "count": 15,
+  "updated": 1792961635,
+  "count": 22,
   "nyc": 0,
   "roles": [
     {
@@ -15,6 +15,62 @@
       "company": "Garmin",
       "title": "SOFTWARE ENGINEER INTERN",
       "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Software Engineer Intern - Entry Level Sales Program 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129258&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "AI Software Engineer Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Software Developer Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128497&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Sales Configuration Developer Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135618&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
