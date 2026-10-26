@@ -1,6 +1,6 @@
 {
-  "updated": 1792983915,
-  "count": 23,
+  "updated": 1793000855,
+  "count": 21,
   "nyc": 0,
   "roles": [
     {
@@ -45,6 +45,14 @@
     },
     {
       "company": "IBM",
+      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
       "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
       "location": "",
@@ -61,14 +69,6 @@
     },
     {
       "company": "IBM",
-      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Sales Configuration Developer Intern 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135618&source=WEB_Search_NA",
       "location": "",
@@ -77,8 +77,8 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer - Security - Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131988&source=WEB_Search_NA",
+      "title": "Software Developer Intern 2027 - CAMBRIDGE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -126,22 +126,6 @@
     {
       "company": "Google",
       "title": "Share Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineering BS/MS Intern, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/83199557986329286-software-engineering-bsms-intern-2027?employment_type=INTERN&q=software%20engineering%20intern",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Google",
-      "title": "Share Software Engineering BS/MS Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
       "location": "",
       "nyc": false,

@@ -1,18 +1,18 @@
 {
-  "updated": 1792983141,
-  "count": 690,
-  "new": 15,
+  "updated": 1793000116,
+  "count": 689,
+  "new": 9,
   "nyc": 60,
-  "carried": 495,
+  "carried": 502,
   "terms": {
-    "Summer 2027": 69,
-    "unspecified": 607,
+    "Summer 2027": 67,
+    "unspecified": 608,
     "Winter 2027": 3,
     "Fall 2026": 3,
     "Spring 2027": 8
   },
-  "closed": 11,
-  "newlyClosed": 8,
+  "closed": 13,
+  "newlyClosed": 10,
   "errors": [
     {
       "src": "workday",
@@ -251,7 +251,7 @@
       "postedAt": 1788451080,
       "term": "Summer 2027",
       "firstSeen": 1789135242,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -264,7 +264,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -277,7 +277,7 @@
       "postedAt": 1788905594,
       "term": "",
       "firstSeen": 1788937017,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -290,7 +290,7 @@
       "postedAt": 1788905689,
       "term": "",
       "firstSeen": 1788937017,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -303,7 +303,7 @@
       "postedAt": 1791587229,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -316,7 +316,7 @@
       "postedAt": 1790951903,
       "term": "",
       "firstSeen": 1791583599,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -329,7 +329,7 @@
       "postedAt": 1692307647,
       "term": "Summer 2027",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -342,7 +342,7 @@
       "postedAt": 1570669230,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -355,7 +355,7 @@
       "postedAt": 1724059335,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -368,7 +368,7 @@
       "postedAt": 1788367259,
       "term": "Summer 2027",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -381,7 +381,7 @@
       "postedAt": 1788367273,
       "term": "Summer 2027",
       "firstSeen": 1788380476,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -394,7 +394,7 @@
       "postedAt": 1790702572,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -407,7 +407,7 @@
       "postedAt": 1790794870,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -420,59 +420,7 @@
       "postedAt": 1789407375,
       "term": "",
       "firstSeen": 1789420538,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Cisco",
-      "title": "Engineering Product Management Specialist I (Intern) \u2013 United States",
-      "location": "4 Locations",
-      "nyc": false,
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
-      "src": "workday",
-      "postedAt": 1792637189,
-      "term": "",
-      "firstSeen": 1789542218,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Cisco",
-      "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
-      "location": "4 Locations",
-      "nyc": false,
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
-      "src": "workday",
-      "postedAt": 1792637189,
-      "term": "",
-      "firstSeen": 1790260577,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Splunk",
-      "title": "Engineering Product Management Specialist I (Intern) \u2013 United States",
-      "location": "4 Locations",
-      "nyc": false,
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
-      "src": "workday",
-      "postedAt": 1792637194,
-      "term": "",
-      "firstSeen": 1790060844,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Splunk",
-      "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
-      "location": "4 Locations",
-      "nyc": false,
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
-      "src": "workday",
-      "postedAt": 1792637194,
-      "term": "",
-      "firstSeen": 1790260577,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -485,7 +433,7 @@
       "postedAt": 1786977077,
       "term": "",
       "firstSeen": 1786991185,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -495,10 +443,10 @@
       "nyc": false,
       "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931",
       "src": "workday",
-      "postedAt": 1790390819,
+      "postedAt": 1790407853,
       "term": "",
       "firstSeen": 1788196903,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -511,7 +459,7 @@
       "postedAt": 1791930233,
       "term": "",
       "firstSeen": 1791961191,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -524,7 +472,7 @@
       "postedAt": 1791431481,
       "term": "Winter 2027",
       "firstSeen": 1791447360,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -537,7 +485,7 @@
       "postedAt": 1789762393,
       "term": "Winter 2027",
       "firstSeen": 1789800872,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -550,7 +498,7 @@
       "postedAt": 1792886400,
       "term": "",
       "firstSeen": 1792937689,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -563,7 +511,7 @@
       "postedAt": 1785801600,
       "term": "",
       "firstSeen": 1785761575,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -576,7 +524,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1792783031,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -589,20 +537,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1792739471,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Cisco",
-      "title": "Engineering Product Management Specialist I Intern",
-      "location": "4 locationsSan Jose, CAMilpitas, CARtp, NCSan Francisco, CA",
-      "nyc": false,
-      "url": "https://go.vansh.nyc/eb?s=y",
-      "src": "github",
-      "postedAt": 1792540800,
-      "term": "",
-      "firstSeen": 1792653660,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -615,7 +550,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1792653660,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -628,7 +563,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1792618069,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -641,7 +576,7 @@
       "postedAt": 1791936000,
       "term": "",
       "firstSeen": 1792783031,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -654,7 +589,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1791961191,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -667,7 +602,7 @@
       "postedAt": 1791417600,
       "term": "",
       "firstSeen": 1792783031,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -680,7 +615,7 @@
       "postedAt": 1791331200,
       "term": "",
       "firstSeen": 1792783031,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -693,7 +628,7 @@
       "postedAt": 1787270400,
       "term": "",
       "firstSeen": 1787336716,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -706,7 +641,7 @@
       "postedAt": 1784851200,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -716,10 +651,10 @@
       "nyc": true,
       "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1792550904,
+      "postedAt": 1792567933,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -729,10 +664,10 @@
       "nyc": false,
       "url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1792723704,
+      "postedAt": 1792740733,
       "term": "",
       "firstSeen": 1792739471,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -742,10 +677,10 @@
       "nyc": false,
       "url": "https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1792723704,
+      "postedAt": 1792740733,
       "term": "",
       "firstSeen": 1792739471,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -755,10 +690,10 @@
       "nyc": false,
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1792637304,
+      "postedAt": 1792654333,
       "term": "",
       "firstSeen": 1792708806,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -768,10 +703,10 @@
       "nyc": false,
       "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1792550904,
+      "postedAt": 1792567933,
       "term": "",
       "firstSeen": 1792653660,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -781,10 +716,10 @@
       "nyc": false,
       "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1792464504,
+      "postedAt": 1792481533,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -794,10 +729,10 @@
       "nyc": false,
       "url": "https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1792464504,
+      "postedAt": 1792481533,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -807,10 +742,10 @@
       "nyc": false,
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -820,10 +755,10 @@
       "nyc": false,
       "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1792032504,
+      "postedAt": 1792049533,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -833,10 +768,10 @@
       "nyc": false,
       "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1791859704,
+      "postedAt": 1791876733,
       "term": "",
       "firstSeen": 1791912107,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -846,10 +781,10 @@
       "nyc": false,
       "url": "https://lifeattiktok.com/search/7693732178706974981?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1791600504,
+      "postedAt": 1791617533,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -859,10 +794,10 @@
       "nyc": false,
       "url": "https://lifeattiktok.com/search/7693727532178229509?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1791600504,
+      "postedAt": 1791617533,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -872,10 +807,10 @@
       "nyc": false,
       "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1791600504,
+      "postedAt": 1791617533,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -888,7 +823,7 @@
       "postedAt": 1791325251,
       "term": "",
       "firstSeen": 1791360065,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -898,10 +833,10 @@
       "nyc": false,
       "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1791341304,
+      "postedAt": 1791271933,
       "term": "",
       "firstSeen": 1791275003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -911,10 +846,10 @@
       "nyc": false,
       "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1791254904,
+      "postedAt": 1791185533,
       "term": "",
       "firstSeen": 1791187254,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -924,10 +859,10 @@
       "nyc": false,
       "url": "https://koch.avature.net/en_US/careers/JobDetail/195099?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790995704,
+      "postedAt": 1791012733,
       "term": "",
       "firstSeen": 1791012095,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -937,10 +872,10 @@
       "nyc": false,
       "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790995704,
+      "postedAt": 1791012733,
       "term": "Summer 2027",
       "firstSeen": 1791012095,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -950,10 +885,10 @@
       "nyc": false,
       "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -963,10 +898,10 @@
       "nyc": false,
       "url": "https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790909304,
+      "postedAt": 1790926333,
       "term": "",
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -976,10 +911,10 @@
       "nyc": false,
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790909304,
+      "postedAt": 1790926333,
       "term": "",
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -989,10 +924,10 @@
       "nyc": false,
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790909304,
+      "postedAt": 1790926333,
       "term": "",
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1002,10 +937,10 @@
       "nyc": false,
       "url": "https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790736504,
+      "postedAt": 1790753533,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1015,10 +950,10 @@
       "nyc": false,
       "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790736504,
+      "postedAt": 1790753533,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1028,10 +963,10 @@
       "nyc": false,
       "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790650104,
+      "postedAt": 1790667133,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1041,10 +976,10 @@
       "nyc": true,
       "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1054,10 +989,10 @@
       "nyc": false,
       "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1067,10 +1002,10 @@
       "nyc": false,
       "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1080,10 +1015,10 @@
       "nyc": false,
       "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1093,10 +1028,10 @@
       "nyc": false,
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "Summer 2027",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1106,10 +1041,10 @@
       "nyc": false,
       "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1119,10 +1054,10 @@
       "nyc": false,
       "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1132,10 +1067,10 @@
       "nyc": false,
       "url": "https://careers.itw.com/global/en/job/JR10105?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1148,7 +1083,7 @@
       "postedAt": 1789420086,
       "term": "",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1158,10 +1093,10 @@
       "nyc": true,
       "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Life-Product-Development_R000110125?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1171,10 +1106,10 @@
       "nyc": false,
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1184,10 +1119,10 @@
       "nyc": false,
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1197,10 +1132,10 @@
       "nyc": false,
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148575999?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1210,10 +1145,10 @@
       "nyc": false,
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32305?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1791126422,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1223,10 +1158,10 @@
       "nyc": false,
       "url": "https://boards.greenhouse.io/embed/job_app?token=8168322&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1236,10 +1171,10 @@
       "nyc": false,
       "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5409030008?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1249,10 +1184,10 @@
       "nyc": false,
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1262,23 +1197,10 @@
       "nyc": false,
       "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Cox",
-      "title": "Product Management Intern",
-      "location": "Austin, TX",
-      "nyc": false,
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189?utm_source=Simplify&ref=Simplify",
-      "src": "github",
-      "postedAt": 1790390904,
-      "term": "",
-      "firstSeen": 1791126422,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1288,10 +1210,10 @@
       "nyc": true,
       "url": "https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1301,10 +1223,10 @@
       "nyc": false,
       "url": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1317,7 +1239,7 @@
       "postedAt": 1788403669,
       "term": "",
       "firstSeen": 1788444191,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1327,10 +1249,10 @@
       "nyc": false,
       "url": "https://lifeattiktok.com/search/7677493272788683013?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1340,10 +1262,10 @@
       "nyc": false,
       "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1353,10 +1275,10 @@
       "nyc": false,
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1366,10 +1288,10 @@
       "nyc": true,
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1379,10 +1301,10 @@
       "nyc": false,
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1392,10 +1314,10 @@
       "nyc": true,
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1405,10 +1327,10 @@
       "nyc": false,
       "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1418,10 +1340,10 @@
       "nyc": false,
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012890?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1431,10 +1353,10 @@
       "nyc": true,
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1444,10 +1366,10 @@
       "nyc": false,
       "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1457,10 +1379,10 @@
       "nyc": false,
       "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1470,10 +1392,10 @@
       "nyc": false,
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1483,10 +1405,10 @@
       "nyc": false,
       "url": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true&utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1496,10 +1418,10 @@
       "nyc": false,
       "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790736504,
+      "postedAt": 1790753533,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1509,10 +1431,10 @@
       "nyc": false,
       "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Auto-Product-Analyst-Intern_R26_0000000995?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1522,10 +1444,10 @@
       "nyc": false,
       "url": "https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/DIRECTV-for-Business-Product-Development-Intern_R260276?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1535,10 +1457,10 @@
       "nyc": false,
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1792723704,
+      "postedAt": 1792740733,
       "term": "",
       "firstSeen": 1792825289,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1548,10 +1470,10 @@
       "nyc": false,
       "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613839?utm_source=Simplify&ref=Simplify",
       "src": "github",
-      "postedAt": 1790390904,
+      "postedAt": 1790407933,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1561,10 +1483,10 @@
       "nyc": false,
       "url": "https://www.stifel.com",
       "src": "github",
-      "postedAt": 1792637304,
+      "postedAt": 1792654333,
       "term": "Summer 2027",
       "firstSeen": 1792704195,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1574,10 +1496,10 @@
       "nyc": false,
       "url": "https://www.sagesure.com",
       "src": "github",
-      "postedAt": 1791686904,
+      "postedAt": 1791703933,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1587,10 +1509,10 @@
       "nyc": false,
       "url": "https://www.hp.com",
       "src": "github",
-      "postedAt": 1791427704,
+      "postedAt": 1791444733,
       "term": "",
       "firstSeen": 1791412304,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1600,10 +1522,10 @@
       "nyc": false,
       "url": "https://www.tencent.com",
       "src": "github",
-      "postedAt": 1788317304,
+      "postedAt": 1788334333,
       "term": "",
       "firstSeen": 1788294120,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1613,10 +1535,10 @@
       "nyc": false,
       "url": "https://www.tiktok.com",
       "src": "github",
-      "postedAt": 1785984504,
+      "postedAt": 1786001533,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1626,10 +1548,10 @@
       "nyc": false,
       "url": "https://www.prologis.com",
       "src": "github",
-      "postedAt": 1791946104,
+      "postedAt": 1791963133,
       "term": "",
       "firstSeen": 1791929485,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1639,10 +1561,10 @@
       "nyc": false,
       "url": "https://www.bosch.com/",
       "src": "github",
-      "postedAt": 1789094904,
+      "postedAt": 1789111933,
       "term": "",
       "firstSeen": 1789071541,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1652,166 +1574,75 @@
       "nyc": false,
       "url": "https://opus.pro/",
       "src": "github",
-      "postedAt": 1786502904,
+      "postedAt": 1786519933,
       "term": "",
       "firstSeen": 1786474170,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
-      "company": "Koch Engineered Solutions",
+      "company": "SEPHORA",
+      "title": "Intern, Product Management, Connecting Clients, Channels and Fulfillment Job Details / Sephora",
+      "location": "Remote, CA, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6ada3e15950ef68d5185568b?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1792704195,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Walmart",
+      "title": "Summer 2027 Intern: Automation - Product Manager - Corporate Intern",
+      "location": "Lancaster, TX, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6ada699e54bbabbab0715b7c?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "Summer 2027",
+      "firstSeen": 1792739471,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Koch",
       "title": "Product Management Intern",
       "location": "Minneapolis, MN, United States",
       "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6ade7a1c46a8cabdc1ffbc02?utm_campaign=1047&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6adeacb30a4cc7090f97c429?utm_campaign=1047&utm_source=git",
       "src": "github",
       "postedAt": 1792886400,
       "term": "",
-      "firstSeen": 1791275003,
-      "lastSeen": 1792983141,
+      "firstSeen": 1791393076,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "location": "Redmond, WA, United States",
+      "company": "Koch",
+      "title": "Business Systems Analyst / Product Analyst Intern",
+      "location": "Tulsa, Oklahoma, United States",
       "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6aa472fd8275e3a21176066f?utm_campaign=1047&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6a7acb93b17cba5690368210?utm_campaign=1047&utm_source=git",
       "src": "github",
       "postedAt": 1792886400,
       "term": "",
-      "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "firstSeen": 1793000116,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
-      "company": "Amazon",
-      "title": "Product Manager Technical (PMT) Intern - Summer 2027",
-      "location": "Seattle, WA, United States",
+      "company": "Koch",
+      "title": "Product Analyst Intern",
+      "location": "Wichita, KS, United States",
       "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6a87975925fc4e7ae3daddd7?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792886400,
-      "term": "Summer 2027",
-      "firstSeen": 1787307775,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "WoodmenLife",
-      "title": "2027 Summer Product Owner Intern",
-      "location": "Omaha, NE, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6ad03646c0dd9da253cf6953?utm_campaign=1047&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6adeac740a4cc7090f97c418?utm_campaign=1047&utm_source=git",
       "src": "github",
       "postedAt": 1792886400,
       "term": "",
-      "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Vertiv",
-      "title": "Product Management Intern (Summer 2027)",
-      "location": "Delaware, OH, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6a8cb5a225fc4e7ae3dba124?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792886400,
-      "term": "Summer 2027",
-      "firstSeen": 1786387520,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "TikTok",
-      "title": "AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer",
-      "location": "San Jose, CA, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6a8970254afae74a0834eb47?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792886400,
-      "term": "",
-      "firstSeen": 1787422652,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Emerson",
-      "title": "Software Product Management Intern",
-      "location": "Austin, TX, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6aa45895422289703bd66433?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792886400,
-      "term": "",
-      "firstSeen": 1789157827,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Amazon",
-      "title": "2027 Amazon Leadership Accelerator (ALA) Product Manager Internship",
-      "location": "Seattle, WA, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792800000,
-      "term": "",
-      "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Roblox",
-      "title": "Summer 2027 Product Management Intern(https://jobright.ai/jobs/info/6a985287c8ed473c5c7634c5?utm_campaign=1047&utm_source=git)",
-      "location": "San Mateo, CA, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6a985287c8ed473c5c7634c5?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792800000,
-      "term": "Summer 2027",
-      "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Atlassian",
-      "title": "Product Management Intern, 2027 Summer U.S.",
-      "location": "San Francisco, CA, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6aaa2738120c360b6bd4ace2?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792800000,
-      "term": "",
-      "firstSeen": 1788331229,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Molex",
-      "title": "Product Management Intern",
-      "location": "Minneapolis, MN, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6adce5dd9e3e874dbfba5861?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792800000,
-      "term": "",
-      "firstSeen": 1791012095,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Mohawk Industries",
-      "title": "Product Management Intern - Summer 2027 Job Details / Mohawk Industries",
-      "location": "Calhoun, GA, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6adcacb45dc7953215a379c4?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792800000,
-      "term": "Summer 2027",
-      "firstSeen": 1791275003,
-      "lastSeen": 1792983141,
+      "firstSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1824,7 +1655,215 @@
       "postedAt": 1789165435,
       "term": "",
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ",
+      "location": "Phoenix, AZ, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6a9659f49fcec5442373253f?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1788246124,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Roblox",
+      "title": "Summer 2027 Product Management Intern(https://jobright.ai/jobs/info/6a985287c8ed473c5c7634c5?utm_campaign=1047&utm_source=git)",
+      "location": "San Mateo, CA, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6a985287c8ed473c5c7634c5?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "Summer 2027",
+      "firstSeen": 1788637548,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ",
+      "location": "Phoenix, AZ, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6a9659ed9fcec5442373253d?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1788246124,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "BNY",
+      "title": "2027 BNY Summer Internship Program - Product Management (Lake Mary, FL)",
+      "location": "Lake Mary, FL, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6abec22e372c01f6cd725727?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1790927370,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY",
+      "location": "New York, NY, United States",
+      "nyc": true,
+      "url": "https://jobright.ai/jobs/info/6a9659f33843db015990a6bb?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1788246124,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Koch Engineered Solutions",
+      "title": "Product Management Intern",
+      "location": "Minneapolis, MN, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6ade7a1c46a8cabdc1ffbc02?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1791275003,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "location": "Redmond, WA, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6aa472fd8275e3a21176066f?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1789195445,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Amazon",
+      "title": "Product Manager Technical (PMT) Intern - Summer 2027",
+      "location": "Seattle, WA, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6a87975925fc4e7ae3daddd7?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "Summer 2027",
+      "firstSeen": 1787307775,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "WoodmenLife",
+      "title": "2027 Summer Product Owner Intern",
+      "location": "Omaha, NE, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6ad03646c0dd9da253cf6953?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1788637548,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Vertiv",
+      "title": "Product Management Intern (Summer 2027)",
+      "location": "Delaware, OH, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6a8cb5a225fc4e7ae3dba124?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "Summer 2027",
+      "firstSeen": 1786387520,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "TikTok",
+      "title": "AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer",
+      "location": "San Jose, CA, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6a8970254afae74a0834eb47?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1787422652,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Emerson",
+      "title": "Software Product Management Intern",
+      "location": "Austin, TX, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6aa45895422289703bd66433?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792886400,
+      "term": "",
+      "firstSeen": 1789157827,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Amazon",
+      "title": "2027 Amazon Leadership Accelerator (ALA) Product Manager Internship",
+      "location": "Seattle, WA, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792800000,
+      "term": "",
+      "firstSeen": 1789048912,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Atlassian",
+      "title": "Product Management Intern, 2027 Summer U.S.",
+      "location": "San Francisco, CA, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6aaa2738120c360b6bd4ace2?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792800000,
+      "term": "",
+      "firstSeen": 1788331229,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Molex",
+      "title": "Product Management Intern",
+      "location": "Minneapolis, MN, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6adce5dd9e3e874dbfba5861?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792800000,
+      "term": "",
+      "firstSeen": 1791012095,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Mohawk Industries",
+      "title": "Product Management Intern - Summer 2027 Job Details / Mohawk Industries",
+      "location": "Calhoun, GA, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6adcacb45dc7953215a379c4?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792800000,
+      "term": "Summer 2027",
+      "firstSeen": 1791275003,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1837,7 +1876,7 @@
       "postedAt": 1792800000,
       "term": "",
       "firstSeen": 1789157827,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1850,7 +1889,7 @@
       "postedAt": 1792713600,
       "term": "Summer 2027",
       "firstSeen": 1791275003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1863,7 +1902,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1790977209,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1876,7 +1915,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1792825289,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1889,7 +1928,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1792825289,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1902,20 +1941,7 @@
       "postedAt": 1792713600,
       "term": "Summer 2027",
       "firstSeen": 1792825289,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Manheim Dallas-Fort Worth",
-      "title": "Product Management Intern - Summer 2027 (Austin, TX)",
-      "location": "Austin, TX, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6adcd198c5c64fa3d9cb4bac?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792713600,
-      "term": "Summer 2027",
-      "firstSeen": 1788876207,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1928,7 +1954,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1792825289,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1941,7 +1967,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1792783031,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1954,7 +1980,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1792783031,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1967,20 +1993,7 @@
       "postedAt": 1792713600,
       "term": "Summer 2027",
       "firstSeen": 1789219095,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "BNY",
-      "title": "2027 BNY Summer Internship Program - Product Management (Lake Mary, FL)",
-      "location": "Lake Mary, FL, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6abec22e372c01f6cd725727?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792713600,
-      "term": "",
-      "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -1993,7 +2006,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1786704743,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2006,7 +2019,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1791583599,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2019,7 +2032,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1792825289,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2032,7 +2045,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1791533664,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2045,7 +2058,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1792789895,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2058,7 +2071,7 @@
       "postedAt": 1792713600,
       "term": "Winter 2027",
       "firstSeen": 1792783031,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2071,7 +2084,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1792783031,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2084,7 +2097,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2097,7 +2110,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1792618069,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2110,7 +2123,7 @@
       "postedAt": 1792713600,
       "term": "Summer 2027",
       "firstSeen": 1792783031,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2123,7 +2136,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1790060844,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2136,7 +2149,7 @@
       "postedAt": 1792713600,
       "term": "",
       "firstSeen": 1790283721,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2149,7 +2162,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2162,7 +2175,7 @@
       "postedAt": 1792627200,
       "term": "Summer 2027",
       "firstSeen": 1792708806,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2175,72 +2188,20 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1792704195,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Technical Product Analyst)",
-      "location": "Vienna, VA, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6aa17958dbc0e60e37e11709?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792627200,
-      "term": "",
-      "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "STERIS",
-      "title": "Product Management Intern - Summer 2027",
-      "location": "Mentor, OH, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6ada23a6e4b94611ab8595df?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792627200,
-      "term": "Summer 2027",
-      "firstSeen": 1792704195,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "SEPHORA",
-      "title": "Intern, Product Management, Connecting Clients, Channels and Fulfillment Job Details / Sephora",
-      "location": "Remote, CA, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6ada3e15950ef68d5185568b?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792627200,
-      "term": "",
-      "firstSeen": 1792704195,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
       "company": "IBM",
       "title": "Product Manager Intern 2027",
-      "location": "Lowell, MA, United States",
+      "location": "LOWELL; DURHAM; San Jose; Austin, Texas; North Carolina; Massachusetts; California; United States",
       "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA",
       "src": "github",
-      "postedAt": 1792627200,
+      "postedAt": null,
       "term": "",
       "firstSeen": 1786593817,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Retensa Employee Retention",
-      "title": "AI Product Intern: Fall 2026",
-      "location": "New York, NY, United States",
-      "nyc": true,
-      "url": "https://jobright.ai/jobs/info/6ad97a2de4b94611ab855fb1?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792627200,
-      "term": "Fall 2026",
-      "firstSeen": 1787626414,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2253,7 +2214,7 @@
       "postedAt": null,
       "term": "",
       "firstSeen": 1785761575,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2266,7 +2227,7 @@
       "postedAt": null,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2279,33 +2240,7 @@
       "postedAt": null,
       "term": "Summer 2027",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Koch",
-      "title": "Product Management Intern",
-      "location": "Minneapolis, MN",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6adeacb30a4cc7090f97c429?utm_source=1099&utm_campaign=Product%20Management",
-      "src": "jobright",
-      "term": "",
-      "postedAt": 1792952899,
-      "firstSeen": 1791393076,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Koch",
-      "title": "Product Analyst Intern",
-      "location": "Wichita, KS",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6adeac740a4cc7090f97c418?utm_source=1099&utm_campaign=Product%20Management",
-      "src": "jobright",
-      "term": "",
-      "postedAt": 1792952836,
-      "firstSeen": 1792983141,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2316,48 +2251,9 @@
       "url": "https://jobright.ai/jobs/info/6ada3e15950ef68d5185568b?utm_source=1099&utm_campaign=Product%20Management",
       "src": "jobright",
       "term": "",
-      "postedAt": 1792950491,
+      "postedAt": 1792964793,
       "firstSeen": 1792704195,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "American Express",
-      "title": "Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ",
-      "location": "Phoenix, AZ",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6a9659f49fcec5442373253f?utm_source=1099&utm_campaign=Product%20Management",
-      "src": "jobright",
-      "term": "",
-      "postedAt": 1792950197,
-      "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "American Express",
-      "title": "Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ",
-      "location": "Phoenix, AZ",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6a9659ed9fcec5442373253d?utm_source=1099&utm_campaign=Product%20Management",
-      "src": "jobright",
-      "term": "Summer 2027",
-      "postedAt": 1792949611,
-      "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY",
-      "location": "New York, NY",
-      "nyc": true,
-      "url": "https://jobright.ai/jobs/info/6a9659f33843db015990a6bb?utm_source=1099&utm_campaign=Product%20Management",
-      "src": "jobright",
-      "term": "",
-      "postedAt": 1792949420,
-      "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2365,12 +2261,12 @@
       "title": "2027 Summer Information Technology DEX Product Intern (Remote)",
       "location": "United States",
       "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6aa4a55ff3aa936e2cdb20b2?utm_source=1099&utm_campaign=Product%20Management",
+      "url": "https://jobright.ai/jobs/info/6aa493f9422289703bd67210?utm_source=1099&utm_campaign=Product%20Management",
       "src": "jobright",
       "term": "Summer 2027",
-      "postedAt": 1792918580,
+      "postedAt": 1792921293,
       "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2383,7 +2279,7 @@
       "term": "Summer 2027",
       "postedAt": 1792793215,
       "firstSeen": 1791275003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2396,7 +2292,7 @@
       "postedAt": 1790726400,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2409,7 +2305,7 @@
       "postedAt": 1785968136,
       "term": "",
       "firstSeen": 1785761575,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2422,7 +2318,7 @@
       "postedAt": 1784846121,
       "term": "",
       "firstSeen": 1785092363,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2435,7 +2331,7 @@
       "postedAt": 1790039870,
       "term": "",
       "firstSeen": 1790086813,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2448,7 +2344,7 @@
       "postedAt": 1784240358,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2461,7 +2357,7 @@
       "postedAt": 1792103769,
       "term": "",
       "firstSeen": 1792679220,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2474,7 +2370,7 @@
       "postedAt": 1787875200,
       "term": "",
       "firstSeen": 1791304207,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2487,7 +2383,7 @@
       "postedAt": 1783377287,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2500,7 +2396,7 @@
       "postedAt": 1779325606,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2513,7 +2409,7 @@
       "postedAt": 1787529600,
       "term": "",
       "firstSeen": 1787626414,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2526,7 +2422,7 @@
       "postedAt": 1788825600,
       "term": "",
       "firstSeen": 1788899580,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2539,7 +2435,7 @@
       "postedAt": 1788220800,
       "term": "",
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2552,7 +2448,7 @@
       "postedAt": 1788220800,
       "term": "",
       "firstSeen": 1788331229,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2565,7 +2461,7 @@
       "postedAt": 1792633619,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2578,7 +2474,7 @@
       "postedAt": 1789165672,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2591,7 +2487,7 @@
       "postedAt": 1789711917,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2604,7 +2500,7 @@
       "postedAt": 1786439657,
       "term": "",
       "firstSeen": 1786474170,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2617,7 +2513,7 @@
       "postedAt": 1786141165,
       "term": "",
       "firstSeen": 1786159154,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2630,7 +2526,7 @@
       "postedAt": 1781503911,
       "term": "",
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2643,7 +2539,7 @@
       "postedAt": 1781503913,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2656,7 +2552,7 @@
       "postedAt": 1792632148,
       "term": "",
       "firstSeen": 1792653660,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2669,7 +2565,7 @@
       "postedAt": 1782956217,
       "term": "",
       "firstSeen": 1784720702,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2682,7 +2578,7 @@
       "postedAt": 1785835212,
       "term": "",
       "firstSeen": 1785871309,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2695,7 +2591,7 @@
       "postedAt": 1781503947,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2708,7 +2604,7 @@
       "postedAt": 1785979103,
       "term": "",
       "firstSeen": 1786017624,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2721,7 +2617,7 @@
       "postedAt": 1792200970,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2734,7 +2630,7 @@
       "postedAt": 1787361563,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2747,7 +2643,7 @@
       "postedAt": 1786545122,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2760,7 +2656,7 @@
       "postedAt": 1781503895,
       "term": "",
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2773,7 +2669,137 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1792739471,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Cisco",
+      "title": "Engineering Product Management Specialist I (Intern) \u2013 United States",
+      "location": "4 Locations",
+      "nyc": false,
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
+      "src": "workday",
+      "postedAt": 1792637189,
+      "term": "",
+      "firstSeen": 1789542218,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Cisco",
+      "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
+      "location": "4 Locations",
+      "nyc": false,
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
+      "src": "workday",
+      "postedAt": 1792637189,
+      "term": "",
+      "firstSeen": 1790260577,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Splunk",
+      "title": "Engineering Product Management Specialist I (Intern) \u2013 United States",
+      "location": "4 Locations",
+      "nyc": false,
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
+      "src": "workday",
+      "postedAt": 1792637194,
+      "term": "",
+      "firstSeen": 1790060844,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Splunk",
+      "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
+      "location": "4 Locations",
+      "nyc": false,
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
+      "src": "workday",
+      "postedAt": 1792637194,
+      "term": "",
+      "firstSeen": 1790260577,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Cisco",
+      "title": "Engineering Product Management Specialist I Intern",
+      "location": "4 locationsSan Jose, CAMilpitas, CARtp, NCSan Francisco, CA",
+      "nyc": false,
+      "url": "https://go.vansh.nyc/eb?s=y",
+      "src": "github",
+      "postedAt": 1792540800,
+      "term": "",
+      "firstSeen": 1792653660,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Cox",
+      "title": "Product Management Intern",
+      "location": "Austin, TX",
+      "nyc": false,
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189?utm_source=Simplify&ref=Simplify",
+      "src": "github",
+      "postedAt": 1790390904,
+      "term": "",
+      "firstSeen": 1791126422,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Manheim Dallas-Fort Worth",
+      "title": "Product Management Intern - Summer 2027 (Austin, TX)",
+      "location": "Austin, TX, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6adcd198c5c64fa3d9cb4bac?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792713600,
+      "term": "Summer 2027",
+      "firstSeen": 1788876207,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Navy Federal Credit Union",
+      "title": "Summer Associate Internship (Technical Product Analyst)",
+      "location": "Vienna, VA, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6aa17958dbc0e60e37e11709?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792627200,
+      "term": "",
+      "firstSeen": 1789048912,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "STERIS",
+      "title": "Product Management Intern - Summer 2027",
+      "location": "Mentor, OH, United States",
+      "nyc": false,
+      "url": "https://jobright.ai/jobs/info/6ada23a6e4b94611ab8595df?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792627200,
+      "term": "Summer 2027",
+      "firstSeen": 1792704195,
+      "lastSeen": 1793000116,
+      "active": true
+    },
+    {
+      "company": "Retensa Employee Retention",
+      "title": "AI Product Intern: Fall 2026",
+      "location": "New York, NY, United States",
+      "nyc": true,
+      "url": "https://jobright.ai/jobs/info/6ad97a2de4b94611ab855fb1?utm_campaign=1047&utm_source=git",
+      "src": "github",
+      "postedAt": 1792627200,
+      "term": "Fall 2026",
+      "firstSeen": 1787626414,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2786,7 +2812,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1785351658,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2799,7 +2825,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2812,7 +2838,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1788876207,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2825,7 +2851,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2838,7 +2864,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1788962753,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2851,7 +2877,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1786159154,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2864,7 +2890,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1786532073,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2877,7 +2903,7 @@
       "term": "Summer 2027",
       "postedAt": 1792754681,
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2890,7 +2916,7 @@
       "postedAt": 1792195200,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2903,7 +2929,7 @@
       "postedAt": 1792022400,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2916,7 +2942,7 @@
       "postedAt": 1787270400,
       "term": "",
       "firstSeen": 1787336716,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2929,7 +2955,7 @@
       "postedAt": 1785801600,
       "term": "",
       "firstSeen": 1785871309,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2942,7 +2968,7 @@
       "postedAt": 1790281496,
       "term": "",
       "firstSeen": 1791126422,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2955,7 +2981,7 @@
       "postedAt": 1792800000,
       "term": "",
       "firstSeen": 1792873740,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2968,7 +2994,7 @@
       "postedAt": 1792713600,
       "term": "Spring 2027",
       "firstSeen": 1792653660,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2981,7 +3007,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1788763852,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -2994,7 +3020,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3007,7 +3033,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1785992346,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3020,7 +3046,7 @@
       "term": "",
       "postedAt": 1792747011,
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3033,7 +3059,7 @@
       "postedAt": 1790260153,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3046,7 +3072,7 @@
       "postedAt": 1790260153,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3059,7 +3085,7 @@
       "postedAt": 1790260153,
       "term": "",
       "firstSeen": 1788417822,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3072,7 +3098,7 @@
       "postedAt": 1788329555,
       "term": "",
       "firstSeen": 1788358236,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3085,7 +3111,7 @@
       "postedAt": 1790260153,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3098,7 +3124,7 @@
       "postedAt": 1790260153,
       "term": "Summer 2027",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3111,7 +3137,7 @@
       "postedAt": 1792800000,
       "term": "",
       "firstSeen": 1792852391,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3124,7 +3150,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1788876207,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3137,7 +3163,7 @@
       "postedAt": 1792627200,
       "term": "Summer 2027",
       "firstSeen": 1788899580,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3150,7 +3176,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1788899580,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3163,7 +3189,7 @@
       "term": "",
       "postedAt": 1792823011,
       "firstSeen": 1792852391,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3176,7 +3202,7 @@
       "term": "Summer 2027",
       "postedAt": 1792738178,
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3189,7 +3215,7 @@
       "term": "Summer 2027",
       "postedAt": 1792738093,
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3202,7 +3228,7 @@
       "term": "Summer 2027",
       "postedAt": 1792737965,
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3215,7 +3241,7 @@
       "term": "Summer 2027",
       "postedAt": 1792737767,
       "firstSeen": 1792767003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3228,7 +3254,7 @@
       "postedAt": 1790233074,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3241,7 +3267,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1787108902,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3254,7 +3280,7 @@
       "postedAt": 1790197676,
       "term": "Summer 2027",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3267,7 +3293,7 @@
       "postedAt": 1790197676,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3280,7 +3306,7 @@
       "postedAt": 1790197676,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3293,7 +3319,7 @@
       "postedAt": 1790197676,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3306,7 +3332,7 @@
       "postedAt": 1790197676,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3319,7 +3345,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3332,7 +3358,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1792704195,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3345,20 +3371,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1791564502,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Walmart",
-      "title": "Summer 2027 Intern: Automation - Product Manager - Corporate Intern",
-      "location": "Lancaster, TX, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6ada699e54bbabbab0715b7c?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "postedAt": 1792540800,
-      "term": "Summer 2027",
-      "firstSeen": 1792739471,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3371,7 +3384,7 @@
       "postedAt": 1792540800,
       "term": "Summer 2027",
       "firstSeen": 1791961191,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3384,7 +3397,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1789714583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3397,7 +3410,7 @@
       "postedAt": 1792540800,
       "term": "Summer 2027",
       "firstSeen": 1791324390,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3410,7 +3423,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3423,7 +3436,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1788899580,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3436,7 +3449,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1790026164,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3449,7 +3462,7 @@
       "postedAt": 1792540800,
       "term": "Summer 2027",
       "firstSeen": 1790026164,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3462,7 +3475,7 @@
       "postedAt": 1792540800,
       "term": "Summer 2027",
       "firstSeen": 1792618069,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3475,7 +3488,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3488,7 +3501,7 @@
       "postedAt": 1790190821,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3501,7 +3514,7 @@
       "postedAt": 1790190821,
       "term": "Summer 2027",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3514,7 +3527,7 @@
       "postedAt": 1792627200,
       "term": "",
       "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3527,7 +3540,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3540,7 +3553,7 @@
       "postedAt": 1792540800,
       "term": "Spring 2027",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3553,7 +3566,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1786704743,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3566,7 +3579,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1786532073,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3579,7 +3592,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3592,7 +3605,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1786532073,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3605,7 +3618,7 @@
       "postedAt": 1792454400,
       "term": "Summer 2027",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3618,7 +3631,7 @@
       "postedAt": 1792454400,
       "term": "Summer 2027",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3631,7 +3644,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3644,7 +3657,7 @@
       "term": "",
       "postedAt": 1792656215,
       "firstSeen": 1792704195,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3657,7 +3670,7 @@
       "term": "",
       "postedAt": 1792647210,
       "firstSeen": 1788876207,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3670,7 +3683,7 @@
       "postedAt": 1791325251,
       "term": "Summer 2027",
       "firstSeen": 1791564502,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3683,7 +3696,7 @@
       "postedAt": 1790147244,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3696,7 +3709,7 @@
       "postedAt": 1788220800,
       "term": "",
       "firstSeen": 1788331229,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3709,7 +3722,7 @@
       "postedAt": 1781503895,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3722,7 +3735,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1792653660,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3735,7 +3748,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1787682479,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3748,7 +3761,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3761,7 +3774,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1788899580,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3774,7 +3787,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3787,7 +3800,7 @@
       "postedAt": 1792454400,
       "term": "Summer 2027",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3800,7 +3813,7 @@
       "term": "",
       "postedAt": 1792613244,
       "firstSeen": 1787108902,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3813,7 +3826,7 @@
       "term": "Summer 2027",
       "postedAt": 1792590026,
       "firstSeen": 1791324390,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3826,7 +3839,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1788294120,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3839,7 +3852,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3852,7 +3865,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1787626414,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3865,7 +3878,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3878,7 +3891,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3891,7 +3904,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3904,7 +3917,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3917,7 +3930,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1788196903,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3930,7 +3943,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3943,7 +3956,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3956,7 +3969,7 @@
       "term": "",
       "postedAt": 1792553432,
       "firstSeen": 1787108902,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3969,7 +3982,7 @@
       "term": "",
       "postedAt": 1792551602,
       "firstSeen": 1788984982,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3982,7 +3995,7 @@
       "postedAt": 1791443870,
       "term": "",
       "firstSeen": 1791533664,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -3995,7 +4008,7 @@
       "postedAt": 1792368000,
       "term": "Spring 2027",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4008,7 +4021,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4021,7 +4034,7 @@
       "postedAt": 1792368000,
       "term": "Summer 2027",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4034,7 +4047,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4047,7 +4060,7 @@
       "postedAt": 1790025858,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4060,7 +4073,7 @@
       "postedAt": 1792540800,
       "term": "",
       "firstSeen": 1792618069,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4073,7 +4086,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1788272898,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4086,7 +4099,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4099,7 +4112,7 @@
       "postedAt": 1792368000,
       "term": "Summer 2027",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4112,7 +4125,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4125,7 +4138,7 @@
       "postedAt": 1792368000,
       "term": "",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4138,7 +4151,7 @@
       "postedAt": 1792368000,
       "term": "Summer 2027",
       "firstSeen": 1792598859,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4151,7 +4164,7 @@
       "postedAt": 1792454400,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4164,7 +4177,7 @@
       "postedAt": 1791960935,
       "term": "Spring 2027",
       "firstSeen": 1791961191,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4177,7 +4190,7 @@
       "postedAt": 1790958363,
       "term": "Spring 2027",
       "firstSeen": 1790977209,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4188,7 +4201,7 @@
       "nyc": true,
       "src": "careerpage",
       "firstSeen": 1788331229,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true,
       "postedAt": 1791417600
     },
@@ -4200,7 +4213,7 @@
       "nyc": false,
       "src": "careerpage",
       "firstSeen": 1791564502,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4213,7 +4226,7 @@
       "postedAt": 1789488000,
       "term": "",
       "firstSeen": 1789505004,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4225,7 +4238,7 @@
       "src": "workday",
       "term": "Summer 2027",
       "firstSeen": 1790147062,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4238,7 +4251,7 @@
       "postedAt": 1789142796,
       "term": "Summer 2027",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4251,7 +4264,7 @@
       "postedAt": 1788466995,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4264,7 +4277,7 @@
       "postedAt": 1788281511,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4277,7 +4290,7 @@
       "postedAt": 1788241379,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4290,7 +4303,7 @@
       "postedAt": 1791442594,
       "term": "",
       "firstSeen": 1791533664,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4303,7 +4316,7 @@
       "postedAt": 1789719151,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4316,7 +4329,7 @@
       "postedAt": 1789146478,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4329,7 +4342,7 @@
       "postedAt": 1788973678,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4342,7 +4355,7 @@
       "postedAt": 1790060194,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4355,7 +4368,7 @@
       "postedAt": 1789714594,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4368,7 +4381,7 @@
       "postedAt": 1789455394,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4381,7 +4394,7 @@
       "postedAt": 1789371415,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4394,7 +4407,7 @@
       "postedAt": 1789368994,
       "term": "Summer 2027",
       "firstSeen": 1788196903,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4407,7 +4420,7 @@
       "postedAt": 1789368994,
       "term": "Summer 2027",
       "firstSeen": 1787422652,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4420,7 +4433,7 @@
       "postedAt": 1789368994,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4433,7 +4446,7 @@
       "postedAt": 1789368994,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4446,7 +4459,7 @@
       "postedAt": 1789368994,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4459,7 +4472,7 @@
       "postedAt": 1788682866,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4472,7 +4485,7 @@
       "postedAt": 1791497286,
       "term": "",
       "firstSeen": 1791533664,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4485,7 +4498,7 @@
       "postedAt": 1790623991,
       "term": "",
       "firstSeen": 1791447360,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4498,7 +4511,7 @@
       "postedAt": 1788281511,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4511,7 +4524,7 @@
       "postedAt": 1788887278,
       "term": "Summer 2027",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4524,7 +4537,7 @@
       "postedAt": 1788855184,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4537,7 +4550,7 @@
       "postedAt": 1790893746,
       "term": "",
       "firstSeen": 1790840459,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4550,7 +4563,7 @@
       "postedAt": 1790096928,
       "term": "Summer 2027",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4563,7 +4576,7 @@
       "postedAt": 1789578528,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4576,7 +4589,7 @@
       "postedAt": 1789112215,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4589,7 +4602,7 @@
       "postedAt": 1790812800,
       "term": "",
       "firstSeen": 1791304207,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4602,7 +4615,7 @@
       "postedAt": 1790708422,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4615,7 +4628,7 @@
       "postedAt": 1790035200,
       "term": "Summer 2027",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4628,7 +4641,7 @@
       "postedAt": 1789418497,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4641,7 +4654,7 @@
       "postedAt": 1789059111,
       "term": "",
       "firstSeen": 1789109613,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4653,7 +4666,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4666,7 +4679,7 @@
       "postedAt": 1789368994,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4678,7 +4691,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4690,7 +4703,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788294120,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4702,7 +4715,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788272898,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4713,7 +4726,7 @@
       "nyc": false,
       "src": "careerpage",
       "firstSeen": 1791583599,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4724,55 +4737,7 @@
       "nyc": false,
       "src": "careerpage",
       "firstSeen": 1791705989,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Freddie Mac",
-      "title": "Digital Product Analysis Intern - Summer 2027",
-      "location": "McLean, VA",
-      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Digital-Product-Analysis-Intern---Summer-2027_JR17562",
-      "src": "carried",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Goldman Sachs",
-      "title": "2027 AWM Product Management Summer Analyst",
-      "location": "New York, NY",
-      "url": "https://higher.gs.com/roles/182389",
-      "src": "carried",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Honeywell",
-      "title": "Offering Management (Product) Intern",
-      "location": "United States",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155594",
-      "src": "carried",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Infineon Technologies",
-      "title": "Internship - Product Management",
-      "location": "El Segundo, CA; CA, United States",
-      "url": "https://jobs.infineon.com/careers/job/563808970717785",
-      "src": "carried",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1786213470,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4785,7 +4750,7 @@
       "postedAt": 1791244800,
       "term": "",
       "firstSeen": 1787596115,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4798,7 +4763,7 @@
       "postedAt": 1788916865,
       "term": "",
       "firstSeen": 1788937017,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4811,7 +4776,7 @@
       "postedAt": 1791590400,
       "term": "",
       "firstSeen": 1787713228,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4824,7 +4789,7 @@
       "postedAt": 1791417600,
       "term": "",
       "firstSeen": 1791479442,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4837,19 +4802,7 @@
       "postedAt": 1790640000,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Vertiv",
-      "title": "Product Development Process Intern (Graduate Level) (Summer 2027)",
-      "location": "Westerville, OH, United States",
-      "nyc": false,
-      "url": "https://jobright.ai/jobs/info/6ab3dd1c0e0ae54eeea45168?utm_campaign=1047&utm_source=git",
-      "src": "github",
-      "term": "Summer 2027",
-      "firstSeen": 1790233287,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4862,7 +4815,7 @@
       "postedAt": 1790812800,
       "term": "",
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4875,7 +4828,7 @@
       "postedAt": 1790086511,
       "term": "Summer 2027",
       "firstSeen": 1790109904,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4888,7 +4841,7 @@
       "postedAt": 1790899200,
       "term": "Summer 2027",
       "firstSeen": 1789157827,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4900,7 +4853,7 @@
       "src": "simplify",
       "term": "",
       "firstSeen": 1788444191,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4913,7 +4866,7 @@
       "postedAt": 1791849600,
       "term": "Summer 2027",
       "firstSeen": 1789109613,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4926,7 +4879,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1791929485,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4939,7 +4892,7 @@
       "postedAt": 1790726400,
       "term": "",
       "firstSeen": 1790840459,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4952,7 +4905,7 @@
       "postedAt": 1791331200,
       "term": "",
       "firstSeen": 1790840459,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4965,7 +4918,7 @@
       "postedAt": 1790640000,
       "term": "",
       "firstSeen": 1790840459,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4978,7 +4931,7 @@
       "postedAt": 1791849600,
       "term": "Summer 2027",
       "firstSeen": 1789847437,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -4991,7 +4944,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1791929485,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5004,7 +4957,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1791929485,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5017,7 +4970,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1791929485,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5030,7 +4983,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1790109904,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5043,7 +4996,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1790007025,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5056,7 +5009,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5069,7 +5022,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1790060844,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5082,7 +5035,7 @@
       "postedAt": 1791849600,
       "term": "",
       "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5095,7 +5048,7 @@
       "postedAt": 1791763200,
       "term": "",
       "firstSeen": 1791912107,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5108,7 +5061,7 @@
       "postedAt": 1791763200,
       "term": "",
       "firstSeen": 1791833785,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5121,7 +5074,7 @@
       "postedAt": 1791763200,
       "term": "",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5134,7 +5087,7 @@
       "postedAt": 1791763200,
       "term": "",
       "firstSeen": 1791912107,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5147,7 +5100,7 @@
       "postedAt": 1791763200,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5160,7 +5113,7 @@
       "postedAt": 1791763200,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5173,7 +5126,7 @@
       "postedAt": 1790812800,
       "term": "",
       "firstSeen": 1786128161,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5186,7 +5139,7 @@
       "postedAt": 1791676800,
       "term": "",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5199,7 +5152,7 @@
       "postedAt": 1791676800,
       "term": "",
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5212,7 +5165,7 @@
       "postedAt": 1791590400,
       "term": "",
       "firstSeen": 1788331229,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5225,7 +5178,7 @@
       "postedAt": 1791331200,
       "term": "",
       "firstSeen": 1788380476,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5238,7 +5191,7 @@
       "postedAt": 1791590400,
       "term": "",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5251,7 +5204,7 @@
       "postedAt": 1791590400,
       "term": "Fall 2026",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5264,7 +5217,7 @@
       "postedAt": 1791590400,
       "term": "",
       "firstSeen": 1789800872,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5277,7 +5230,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1791583599,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5290,7 +5243,7 @@
       "postedAt": 1791504000,
       "term": "Spring 2027",
       "firstSeen": 1791583599,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5303,7 +5256,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1791583599,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5316,7 +5269,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5329,7 +5282,7 @@
       "postedAt": 1791590400,
       "term": "Summer 2027",
       "firstSeen": 1791647005,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5342,7 +5295,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1791583599,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5355,7 +5308,7 @@
       "postedAt": 1791244800,
       "term": "",
       "firstSeen": 1791447360,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5368,7 +5321,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5381,7 +5334,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1789591370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5394,7 +5347,7 @@
       "postedAt": 1791763200,
       "term": "",
       "firstSeen": 1791912107,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5407,7 +5360,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1791304207,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5420,7 +5373,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5433,7 +5386,7 @@
       "postedAt": 1791417600,
       "term": "",
       "firstSeen": 1791647005,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5446,7 +5399,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5459,7 +5412,7 @@
       "term": "",
       "postedAt": 1791883447,
       "firstSeen": 1791912107,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5472,7 +5425,7 @@
       "postedAt": 1791590400,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5485,7 +5438,7 @@
       "postedAt": 1791590400,
       "term": "",
       "firstSeen": 1791647005,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5498,7 +5451,7 @@
       "postedAt": 1791331200,
       "term": "",
       "firstSeen": 1791412304,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5511,7 +5464,7 @@
       "postedAt": 1791417600,
       "term": "",
       "firstSeen": 1791533664,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5524,7 +5477,7 @@
       "postedAt": 1791244800,
       "term": "",
       "firstSeen": 1791412304,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5537,7 +5490,7 @@
       "postedAt": 1791417600,
       "term": "",
       "firstSeen": 1791533664,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5550,7 +5503,7 @@
       "postedAt": 1791417600,
       "term": "",
       "firstSeen": 1787713228,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5563,7 +5516,7 @@
       "postedAt": 1791331200,
       "term": "",
       "firstSeen": 1787682479,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5576,7 +5529,7 @@
       "postedAt": 1791417600,
       "term": "Summer 2027",
       "firstSeen": 1789591370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5589,7 +5542,7 @@
       "postedAt": 1791417600,
       "term": "Summer 2027",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5602,7 +5555,7 @@
       "postedAt": 1791417600,
       "term": "",
       "firstSeen": 1789591370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5615,7 +5568,7 @@
       "postedAt": 1791417600,
       "term": "Summer 2027",
       "firstSeen": 1789591370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5628,7 +5581,7 @@
       "postedAt": 1791417600,
       "term": "",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5641,7 +5594,7 @@
       "postedAt": 1791417600,
       "term": "",
       "firstSeen": 1791479442,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5654,7 +5607,7 @@
       "postedAt": 1791331200,
       "term": "",
       "firstSeen": 1791275003,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5667,7 +5620,7 @@
       "postedAt": 1791331200,
       "term": "Spring 2027",
       "firstSeen": 1791412304,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5680,7 +5633,7 @@
       "postedAt": 1791331200,
       "term": "Summer 2027",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5693,7 +5646,7 @@
       "postedAt": 1791331200,
       "term": "Summer 2027",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5706,7 +5659,7 @@
       "postedAt": 1791504000,
       "term": "",
       "firstSeen": 1790348223,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5719,7 +5672,7 @@
       "postedAt": 1791331200,
       "term": "Summer 2027",
       "firstSeen": 1791412304,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5732,7 +5685,7 @@
       "postedAt": 1791331200,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5745,7 +5698,7 @@
       "postedAt": 1791244800,
       "term": "",
       "firstSeen": 1791360065,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5758,7 +5711,7 @@
       "postedAt": 1791244800,
       "term": "",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5771,7 +5724,7 @@
       "postedAt": 1791244800,
       "term": "",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5784,7 +5737,7 @@
       "postedAt": 1791244800,
       "term": "",
       "firstSeen": 1787540269,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5797,7 +5750,7 @@
       "postedAt": 1791244800,
       "term": "Summer 2027",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5810,7 +5763,7 @@
       "postedAt": 1791158400,
       "term": "",
       "firstSeen": 1791324390,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5823,7 +5776,7 @@
       "postedAt": 1791331200,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5836,7 +5789,7 @@
       "postedAt": 1791244800,
       "term": "",
       "firstSeen": 1791324390,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5849,7 +5802,7 @@
       "postedAt": 1791158400,
       "term": "",
       "firstSeen": 1786474170,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5862,7 +5815,7 @@
       "postedAt": 1791244800,
       "term": "",
       "firstSeen": 1791324390,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5875,7 +5828,7 @@
       "postedAt": 1791072000,
       "term": "",
       "firstSeen": 1788724135,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5888,7 +5841,7 @@
       "postedAt": 1790985600,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5901,7 +5854,7 @@
       "postedAt": 1790985600,
       "term": "",
       "firstSeen": 1789135242,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5914,7 +5867,7 @@
       "postedAt": 1790985600,
       "term": "",
       "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5927,7 +5880,7 @@
       "postedAt": 1790899200,
       "term": "",
       "firstSeen": 1790957222,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5940,7 +5893,7 @@
       "postedAt": 1790899200,
       "term": "",
       "firstSeen": 1790957222,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5953,7 +5906,7 @@
       "postedAt": 1790812800,
       "term": "",
       "firstSeen": 1791012095,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5966,7 +5919,7 @@
       "postedAt": 1790899200,
       "term": "",
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5979,7 +5932,7 @@
       "postedAt": 1790812800,
       "term": "Spring 2027",
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -5992,7 +5945,7 @@
       "postedAt": 1790812800,
       "term": "",
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6005,7 +5958,7 @@
       "postedAt": 1790899200,
       "term": "",
       "firstSeen": 1787626414,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6018,7 +5971,7 @@
       "postedAt": 1790812800,
       "term": "Summer 2027",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6031,7 +5984,7 @@
       "postedAt": 1790812800,
       "term": "",
       "firstSeen": 1790873670,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6044,7 +5997,7 @@
       "postedAt": 1791072000,
       "term": "",
       "firstSeen": 1791126422,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6057,7 +6010,7 @@
       "postedAt": 1790985600,
       "term": "",
       "firstSeen": 1790405734,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6070,7 +6023,7 @@
       "postedAt": 1790812800,
       "term": "",
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6083,7 +6036,7 @@
       "postedAt": 1790726400,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6096,7 +6049,7 @@
       "term": "",
       "postedAt": 1790877076,
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6109,7 +6062,7 @@
       "term": "",
       "postedAt": 1790864887,
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6122,7 +6075,7 @@
       "term": "",
       "postedAt": 1790863762,
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6135,7 +6088,7 @@
       "term": "",
       "postedAt": 1790861337,
       "firstSeen": 1790927370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6148,7 +6101,7 @@
       "postedAt": 1790726400,
       "term": "Summer 2027",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6161,7 +6114,7 @@
       "postedAt": 1790568000,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6174,7 +6127,7 @@
       "postedAt": 1790640000,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6187,7 +6140,7 @@
       "postedAt": 1790640000,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6200,7 +6153,7 @@
       "postedAt": 1790640000,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6213,7 +6166,7 @@
       "postedAt": 1790568000,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6226,7 +6179,7 @@
       "postedAt": 1790568000,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6239,7 +6192,7 @@
       "postedAt": 1790568000,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6252,7 +6205,7 @@
       "postedAt": 1790740800,
       "term": "Summer 2027",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6264,7 +6217,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1789402104,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6276,7 +6229,7 @@
       "src": "jobright",
       "term": "",
       "firstSeen": 1790369872,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6289,7 +6242,7 @@
       "postedAt": 1790654400,
       "term": "Fall 2026",
       "firstSeen": 1789402104,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6301,7 +6254,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6313,7 +6266,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788763852,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6325,7 +6278,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790026164,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6337,7 +6290,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1785844709,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6349,7 +6302,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787422652,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6361,7 +6314,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790405734,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6373,7 +6326,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6385,7 +6338,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787509053,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6397,7 +6350,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6409,7 +6362,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6421,7 +6374,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6433,7 +6386,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6445,7 +6398,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6457,7 +6410,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1788552346,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6469,7 +6422,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790405734,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6481,7 +6434,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790405734,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6493,7 +6446,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790405734,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6505,7 +6458,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790369872,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6517,7 +6470,7 @@
       "src": "github",
       "term": "Summer 2027",
       "firstSeen": 1790174274,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6529,7 +6482,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790405734,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6541,7 +6494,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790348223,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6553,7 +6506,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790348223,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6565,7 +6518,7 @@
       "src": "github",
       "term": "Summer 2027",
       "firstSeen": 1790283721,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6577,7 +6530,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6589,7 +6542,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1788380476,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6601,7 +6554,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1789157827,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6613,7 +6566,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790233287,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6625,7 +6578,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1790233287,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6637,7 +6590,7 @@
       "src": "github",
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6649,43 +6602,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787194301,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Signify",
-      "title": "Product Management Intern - Fall 2026",
-      "location": "Menlo Park, CA",
-      "url": "https://jobright.ai/jobs/info/6a591374856af468ab001ad7?utm_source=1099&utm_campaign=Product%20Management",
-      "src": "carried",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1786128161,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Threekit",
-      "title": "AI Product Intern",
-      "location": "Chicago, IL",
-      "url": "https://jobright.ai/jobs/info/6a760a6b67a1ad0bc53c85b6?utm_source=1099&utm_campaign=Product%20Management",
-      "src": "carried",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1786159154,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Virtuozzo",
-      "title": "Intern in Product Management",
-      "location": "United States",
-      "url": "https://jobright.ai/jobs/info/6a739f7c6a034212ea028b45?utm_source=1099&utm_campaign=Product%20Management",
-      "src": "carried",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1785992346,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6697,7 +6614,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788214529,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6709,7 +6626,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6721,7 +6638,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787682479,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6733,7 +6650,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6745,7 +6662,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787422652,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6757,7 +6674,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789135242,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6769,7 +6686,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6781,7 +6698,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6793,7 +6710,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6805,7 +6722,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6817,7 +6734,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789402104,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6829,7 +6746,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789505004,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6841,7 +6758,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789483067,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6853,7 +6770,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788246124,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6865,7 +6782,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788417822,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6877,7 +6794,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790405734,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6889,7 +6806,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1786647093,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6901,7 +6818,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789157827,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6913,7 +6830,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788899580,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6925,7 +6842,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788700916,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6937,7 +6854,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6949,7 +6866,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790283721,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6961,7 +6878,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788417822,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6973,7 +6890,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788899580,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6985,7 +6902,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -6997,7 +6914,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7009,7 +6926,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7021,19 +6938,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789420538,
-      "lastSeen": 1792983141,
-      "active": true
-    },
-    {
-      "company": "Corning",
-      "title": "Digital & IT Intern - Agile & Product Operations (Summer 2027)",
-      "location": "Corning, NY",
-      "url": "https://corningjobs.corning.com/",
-      "src": "carried",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7045,7 +6950,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788196903,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7057,7 +6962,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7069,7 +6974,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7081,7 +6986,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787882260,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7093,7 +6998,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7105,7 +7010,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7117,7 +7022,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7129,7 +7034,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788552346,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7141,7 +7046,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7153,7 +7058,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788850070,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7165,7 +7070,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788816410,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7177,7 +7082,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7189,7 +7094,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7201,7 +7106,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7213,7 +7118,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789219095,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7225,7 +7130,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789282942,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7237,7 +7142,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789135242,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7249,7 +7154,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1786484751,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7261,7 +7166,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7273,7 +7178,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789420538,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7285,7 +7190,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7297,7 +7202,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7309,7 +7214,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789505004,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7321,7 +7226,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789542218,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "active": true
     },
     {
@@ -7333,7 +7238,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7346,7 +7251,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7359,7 +7264,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7372,7 +7277,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7385,7 +7290,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7398,7 +7303,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7411,7 +7316,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7424,7 +7329,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7437,7 +7342,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7450,7 +7355,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7463,7 +7368,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1790833583,
       "active": true
     },
@@ -7476,7 +7381,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1784423102,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7489,7 +7394,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788850070,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7502,7 +7407,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7515,7 +7420,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791360065,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7528,7 +7433,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789402104,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7541,7 +7446,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789542218,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7554,7 +7459,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7567,7 +7472,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789569160,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7580,7 +7485,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789542218,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7593,7 +7498,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791833785,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7606,7 +7511,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7619,7 +7524,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7632,7 +7537,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791393076,
       "active": true
     },
@@ -7645,7 +7550,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7658,7 +7563,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7671,7 +7576,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791961191,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7684,7 +7589,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7697,7 +7602,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790957222,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791619206,
       "active": true
     },
@@ -7710,7 +7615,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791583599,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791912107,
       "active": true
     },
@@ -7723,7 +7628,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788876207,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791619206,
       "active": true
     },
@@ -7736,7 +7641,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789542218,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791479442,
       "active": true
     },
@@ -7749,7 +7654,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787682479,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791619206,
       "active": true
     },
@@ -7762,7 +7667,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788121205,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7775,7 +7680,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791126422,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791412304,
       "active": true
     },
@@ -7788,7 +7693,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789762441,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791912107,
       "active": true
     },
@@ -7801,7 +7706,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789402104,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791533664,
       "active": true
     },
@@ -7814,7 +7719,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791619206,
       "active": true
     },
@@ -7827,7 +7732,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788763852,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791912107,
       "active": true
     },
@@ -7840,7 +7745,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788763852,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791583599,
       "active": true
     },
@@ -7853,7 +7758,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789420538,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791665864,
       "active": true
     },
@@ -7866,7 +7771,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7879,7 +7784,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787882260,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7892,7 +7797,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787250429,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791412304,
       "active": true
     },
@@ -7905,7 +7810,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7918,7 +7823,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791187254,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791533664,
       "active": true
     },
@@ -7931,7 +7836,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -7944,7 +7849,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789219095,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791412304,
       "active": true
     },
@@ -7957,7 +7862,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789420538,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791665864,
       "active": true
     },
@@ -7970,7 +7875,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791961191,
       "active": true
     },
@@ -7983,7 +7888,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787682479,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791583599,
       "active": true
     },
@@ -7996,7 +7901,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791583599,
       "active": true
     },
@@ -8009,7 +7914,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8022,7 +7927,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8035,7 +7940,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8048,7 +7953,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788937017,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791564502,
       "active": true
     },
@@ -8061,7 +7966,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8074,7 +7979,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8087,7 +7992,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791912107,
       "active": true
     },
@@ -8100,7 +8005,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8113,7 +8018,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787422652,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791479442,
       "active": true
     },
@@ -8126,7 +8031,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787422652,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791479442,
       "active": true
     },
@@ -8139,21 +8044,8 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791647005,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791833785,
-      "active": true
-    },
-    {
-      "company": "The Minnesota Star Tribune",
-      "title": "Product Managment Internship - Summer 2027",
-      "location": "Minneapolis, MN, United States",
-      "url": "http://www.startribunecompany.com",
-      "src": "closed",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1789800872,
-      "lastSeen": 1792983141,
-      "removedAt": 1791665864,
       "active": true
     },
     {
@@ -8165,7 +8057,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791393076,
       "active": true
     },
@@ -8178,7 +8070,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8191,7 +8083,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791126422,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8204,7 +8096,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788899580,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8217,7 +8109,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788637548,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8230,7 +8122,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1785992346,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791479442,
       "active": true
     },
@@ -8243,7 +8135,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790833583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791912107,
       "active": true
     },
@@ -8256,7 +8148,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789048912,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791647005,
       "active": true
     },
@@ -8269,7 +8161,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789242946,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791619206,
       "active": true
     },
@@ -8282,7 +8174,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790785892,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8295,7 +8187,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789483067,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791833785,
       "active": true
     },
@@ -8308,7 +8200,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789800872,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791412304,
       "active": true
     },
@@ -8321,7 +8213,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789242946,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791412304,
       "active": true
     },
@@ -8334,7 +8226,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8347,7 +8239,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1791619206,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792598859,
       "active": true
     },
@@ -8360,7 +8252,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790786355,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791793360,
       "active": true
     },
@@ -8373,7 +8265,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787966513,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791912107,
       "active": true
     },
@@ -8386,7 +8278,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789455677,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791412304,
       "active": true
     },
@@ -8399,7 +8291,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789420538,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1791412304,
       "active": true
     },
@@ -8412,7 +8304,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789591370,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792618069,
       "active": true
     },
@@ -8425,7 +8317,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792704195,
       "active": true
     },
@@ -8438,7 +8330,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788984982,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792704195,
       "active": true
     },
@@ -8451,7 +8343,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789800872,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792708806,
       "active": true
     },
@@ -8464,7 +8356,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789975760,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792708806,
       "active": true
     },
@@ -8477,7 +8369,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787882260,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792739471,
       "active": true
     },
@@ -8490,7 +8382,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792739471,
       "active": true
     },
@@ -8503,7 +8395,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792767003,
       "active": true
     },
@@ -8516,7 +8408,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792767003,
       "active": true
     },
@@ -8529,7 +8421,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792767003,
       "active": true
     },
@@ -8542,7 +8434,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792767003,
       "active": true
     },
@@ -8555,7 +8447,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789714583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792783031,
       "active": true
     },
@@ -8568,7 +8460,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789678233,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792789895,
       "active": true
     },
@@ -8581,7 +8473,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789714583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792789895,
       "active": true
     },
@@ -8594,7 +8486,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789714583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792789895,
       "active": true
     },
@@ -8607,7 +8499,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787882260,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792789895,
       "active": true
     },
@@ -8620,7 +8512,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792825289,
       "active": true
     },
@@ -8633,7 +8525,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789800872,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792825289,
       "active": true
     },
@@ -8646,7 +8538,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789762441,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792825289,
       "active": true
     },
@@ -8659,7 +8551,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789825141,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792825289,
       "active": true
     },
@@ -8672,7 +8564,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1788589992,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792850567,
       "active": true
     },
@@ -8685,7 +8577,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789912377,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792852391,
       "active": true
     },
@@ -8698,7 +8590,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790026164,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792873740,
       "active": true
     },
@@ -8711,7 +8603,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790109904,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792913226,
       "active": true
     },
@@ -8724,7 +8616,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790026164,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792913226,
       "active": true
     },
@@ -8737,7 +8629,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790060844,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792913226,
       "active": true
     },
@@ -8750,7 +8642,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789420538,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792913226,
       "active": true
     },
@@ -8763,7 +8655,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789542218,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792913226,
       "active": true
     },
@@ -8776,7 +8668,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789714583,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792913226,
       "active": true
     },
@@ -8789,7 +8681,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790109904,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792937689,
       "active": true
     },
@@ -8802,7 +8694,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790147062,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792937689,
       "active": true
     },
@@ -8815,7 +8707,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790348223,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792937689,
       "active": true
     },
@@ -8828,7 +8720,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792937689,
       "active": true
     },
@@ -8841,7 +8733,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789628378,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792937689,
       "active": true
     },
@@ -8854,7 +8746,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790109904,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792948379,
       "active": true
     },
@@ -8867,7 +8759,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789195445,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792948379,
       "active": true
     },
@@ -8880,7 +8772,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787021422,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792948379,
       "active": true
     },
@@ -8893,7 +8785,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1786474170,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792948379,
       "active": true
     },
@@ -8906,7 +8798,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1785871309,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792948379,
       "active": true
     },
@@ -8919,7 +8811,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787773037,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792948379,
       "active": true
     },
@@ -8932,7 +8824,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1786474170,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -8945,7 +8837,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790233287,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -8958,7 +8850,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790233287,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -8971,7 +8863,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790348223,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -8984,7 +8876,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790109904,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -8997,7 +8889,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1785905909,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -9010,7 +8902,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787021422,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -9023,7 +8915,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1786733015,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -9036,7 +8928,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1786618550,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -9049,7 +8941,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1787250429,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -9062,7 +8954,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790109904,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -9075,7 +8967,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1789109613,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -9088,7 +8980,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1786387520,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -9101,7 +8993,7 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1790233287,
-      "lastSeen": 1792983141,
+      "lastSeen": 1793000116,
       "removedAt": 1792960854,
       "active": true
     },
@@ -9114,8 +9006,138 @@
       "nyc": false,
       "term": "",
       "firstSeen": 1786788961,
-      "lastSeen": 1792960854,
+      "lastSeen": 1793000116,
       "removedAt": 1792983141,
+      "active": true
+    },
+    {
+      "company": "iconectiv",
+      "title": "Intern, Product Management - Job ID 3116",
+      "location": "United States",
+      "url": "https://jobright.ai/jobs/info/6a83ae2db5a0ac0e84a2739d?utm_source=1099&utm_campaign=Product%20Management",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1787021422,
+      "lastSeen": 1793000116,
+      "removedAt": 1792983141,
+      "active": true
+    },
+    {
+      "company": "Marketeq Talent",
+      "title": "Software Engineering & Product Management Intern",
+      "location": "United States",
+      "url": "https://jobright.ai/jobs/info/6a7b4e6eecf5194164fbd15c?utm_source=1099&utm_campaign=Product%20Management",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1786474170,
+      "lastSeen": 1793000116,
+      "removedAt": 1792983141,
+      "active": true
+    },
+    {
+      "company": "Mobility Global",
+      "title": "Product Management Intern (Early Careers)",
+      "location": "Michigan, United States; Southfield, MI",
+      "url": "https://jobright.ai/jobs/info/6a164d7ca429fd279da975b9?utm_source=1099&utm_campaign=Product%20Management",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1786213470,
+      "lastSeen": 1793000116,
+      "removedAt": 1792983141,
+      "active": true
+    },
+    {
+      "company": "NAVER U.Hub",
+      "title": "ThingsBook - Product Management Intern",
+      "location": "Redwood City, CA; Los Angeles, CA",
+      "url": "https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6?utm_source=1099&utm_campaign=Product%20Management",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1786647093,
+      "lastSeen": 1793000116,
+      "removedAt": 1792983141,
+      "active": true
+    },
+    {
+      "company": "RLI Insurance Company",
+      "title": "Product Management Intern- Honolulu, HI",
+      "location": "Honolulu, HI",
+      "url": "https://jobright.ai/jobs/info/6a7a37b3a26ccc369f83d2f9?utm_source=1099&utm_campaign=Product%20Management",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1786445123,
+      "lastSeen": 1793000116,
+      "removedAt": 1792983141,
+      "active": true
+    },
+    {
+      "company": "Stellantis",
+      "title": "2027 Product Design Office (PDO) \u2013 AI Design Internship",
+      "location": "Auburn Hills, MI, United States",
+      "url": "https://www.stellantis.com/",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1788637548,
+      "lastSeen": 1793000116,
+      "removedAt": 1792983141,
+      "active": true
+    },
+    {
+      "company": "US Foods",
+      "title": "Intern \u2013 Product Analyst, Digital Commerce (Hybrid: Onsite & Remote)",
+      "location": "Rosemont, IL, United States",
+      "url": "https://www.usfoods.com",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1790233287,
+      "lastSeen": 1793000116,
+      "removedAt": 1792983141,
+      "active": true
+    },
+    {
+      "company": "Corning",
+      "title": "Digital & IT Intern - Agile & Product Operations (Summer 2027)",
+      "location": "Corning, NY",
+      "url": "https://corningjobs.corning.com/",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1788589992,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
+      "active": false
+    },
+    {
+      "company": "Freddie Mac",
+      "title": "Digital Product Analysis Intern - Summer 2027",
+      "location": "McLean, VA",
+      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Digital-Product-Analysis-Intern---Summer-2027_JR17562",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1788589992,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
+      "active": false
+    },
+    {
+      "company": "Goldman Sachs",
+      "title": "2027 AWM Product Management Summer Analyst",
+      "location": "New York, NY",
+      "url": "https://higher.gs.com/roles/182389",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1788589992,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
       "active": false
     },
     {
@@ -9132,16 +9154,29 @@
       "active": false
     },
     {
-      "company": "iconectiv",
-      "title": "Intern, Product Management - Job ID 3116",
+      "company": "Honeywell",
+      "title": "Offering Management (Product) Intern",
       "location": "United States",
-      "url": "https://jobright.ai/jobs/info/6a83ae2db5a0ac0e84a2739d?utm_source=1099&utm_campaign=Product%20Management",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155594",
       "src": "closed",
       "nyc": false,
       "term": "",
-      "firstSeen": 1787021422,
-      "lastSeen": 1792960854,
-      "removedAt": 1792983141,
+      "firstSeen": 1788589992,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
+      "active": false
+    },
+    {
+      "company": "Infineon Technologies",
+      "title": "Internship - Product Management",
+      "location": "El Segundo, CA; CA, United States",
+      "url": "https://jobs.infineon.com/careers/job/563808970717785",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1786213470,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
       "active": false
     },
     {
@@ -9158,81 +9193,68 @@
       "active": false
     },
     {
-      "company": "Marketeq Talent",
-      "title": "Software Engineering & Product Management Intern",
-      "location": "United States",
-      "url": "https://jobright.ai/jobs/info/6a7b4e6eecf5194164fbd15c?utm_source=1099&utm_campaign=Product%20Management",
+      "company": "Signify",
+      "title": "Product Management Intern - Fall 2026",
+      "location": "Menlo Park, CA",
+      "url": "https://jobright.ai/jobs/info/6a591374856af468ab001ad7?utm_source=1099&utm_campaign=Product%20Management",
       "src": "closed",
       "nyc": false,
       "term": "",
-      "firstSeen": 1786474170,
-      "lastSeen": 1792960854,
-      "removedAt": 1792983141,
+      "firstSeen": 1786128161,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
       "active": false
     },
     {
-      "company": "Mobility Global",
-      "title": "Product Management Intern (Early Careers)",
-      "location": "Michigan, United States; Southfield, MI",
-      "url": "https://jobright.ai/jobs/info/6a164d7ca429fd279da975b9?utm_source=1099&utm_campaign=Product%20Management",
+      "company": "The Minnesota Star Tribune",
+      "title": "Product Managment Internship - Summer 2027",
+      "location": "Minneapolis, MN, United States",
+      "url": "http://www.startribunecompany.com",
       "src": "closed",
       "nyc": false,
       "term": "",
-      "firstSeen": 1786213470,
-      "lastSeen": 1792960854,
-      "removedAt": 1792983141,
+      "firstSeen": 1789800872,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
       "active": false
     },
     {
-      "company": "NAVER U.Hub",
-      "title": "ThingsBook - Product Management Intern",
-      "location": "Redwood City, CA; Los Angeles, CA",
-      "url": "https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6?utm_source=1099&utm_campaign=Product%20Management",
+      "company": "Threekit",
+      "title": "AI Product Intern",
+      "location": "Chicago, IL",
+      "url": "https://jobright.ai/jobs/info/6a760a6b67a1ad0bc53c85b6?utm_source=1099&utm_campaign=Product%20Management",
       "src": "closed",
       "nyc": false,
       "term": "",
-      "firstSeen": 1786647093,
-      "lastSeen": 1792960854,
-      "removedAt": 1792983141,
+      "firstSeen": 1786159154,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
       "active": false
     },
     {
-      "company": "RLI Insurance Company",
-      "title": "Product Management Intern- Honolulu, HI",
-      "location": "Honolulu, HI",
-      "url": "https://jobright.ai/jobs/info/6a7a37b3a26ccc369f83d2f9?utm_source=1099&utm_campaign=Product%20Management",
-      "src": "closed",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1786445123,
-      "lastSeen": 1792960854,
-      "removedAt": 1792983141,
-      "active": false
-    },
-    {
-      "company": "Stellantis",
-      "title": "2027 Product Design Office (PDO) \u2013 AI Design Internship",
-      "location": "Auburn Hills, MI, United States",
-      "url": "https://www.stellantis.com/",
-      "src": "closed",
-      "nyc": false,
-      "term": "",
-      "firstSeen": 1788637548,
-      "lastSeen": 1792960854,
-      "removedAt": 1792983141,
-      "active": false
-    },
-    {
-      "company": "US Foods",
-      "title": "Intern \u2013 Product Analyst, Digital Commerce (Hybrid: Onsite & Remote)",
-      "location": "Rosemont, IL, United States",
-      "url": "https://www.usfoods.com",
+      "company": "Vertiv",
+      "title": "Product Development Process Intern (Graduate Level) (Summer 2027)",
+      "location": "Westerville, OH, United States",
+      "url": "https://jobright.ai/jobs/info/6ab3dd1c0e0ae54eeea45168?utm_campaign=1047&utm_source=git",
       "src": "closed",
       "nyc": false,
       "term": "",
       "firstSeen": 1790233287,
-      "lastSeen": 1792960854,
-      "removedAt": 1792983141,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
+      "active": false
+    },
+    {
+      "company": "Virtuozzo",
+      "title": "Intern in Product Management",
+      "location": "United States",
+      "url": "https://jobright.ai/jobs/info/6a739f7c6a034212ea028b45?utm_source=1099&utm_campaign=Product%20Management",
+      "src": "closed",
+      "nyc": false,
+      "term": "",
+      "firstSeen": 1785992346,
+      "lastSeen": 1792983141,
+      "removedAt": 1793000116,
       "active": false
     },
     {
