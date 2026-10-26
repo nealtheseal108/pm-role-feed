@@ -1,6 +1,6 @@
 {
-  "updated": 1793033601,
-  "count": 11,
+  "updated": 1793054351,
+  "count": 6,
   "nyc": 0,
   "roles": [
     {
@@ -15,46 +15,6 @@
       "company": "Amazon",
       "title": "Product Manager Technical (PMT) Intern - Summer 2027",
       "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Product Management Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136426&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Product Manager Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Product Manager Intern 2027 - BELLEVUE",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134108&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Product Manager Intern 2027 - Lowell",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132983&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Product Manager Intern 2027 - One Madison",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133468&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
