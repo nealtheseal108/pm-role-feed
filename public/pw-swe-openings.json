@@ -1,20 +1,12 @@
 {
-  "updated": 1793086967,
-  "count": 15,
+  "updated": 1793116440,
+  "count": 16,
   "nyc": 0,
   "roles": [
     {
       "company": "Epic Systems",
       "title": "Software Developer Intern - Summer 2027",
       "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer/740",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Garmin",
-      "title": "SOFTWARE ENGINEER INTERN",
-      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -30,7 +22,15 @@
     {
       "company": "IBM",
       "title": "AI Software Engineer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137400&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Poughkeepsie 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130716&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -63,6 +63,14 @@
       "company": "IBM",
       "title": "Sales Configuration Developer Intern 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135618&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Garmin",
+      "title": "SOFTWARE ENGINEER INTERN",
+      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
