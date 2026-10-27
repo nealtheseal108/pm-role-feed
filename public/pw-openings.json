@@ -1,6 +1,6 @@
 {
-  "updated": 1793054351,
-  "count": 6,
+  "updated": 1793086889,
+  "count": 10,
   "nyc": 0,
   "roles": [
     {
@@ -20,17 +20,49 @@
       "src": "careerpage"
     },
     {
-      "company": "American Express",
-      "title": "Campus - Internship Programme - Undergraduate - Product Manager - 2027 (UK - Burgess Hill)",
-      "url": "https://careers.americanexpress.com/en/sites/CX_1/jobs",
+      "company": "IBM",
+      "title": "Product Management Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136426&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
-      "company": "American Express",
-      "title": "Campus - Internship Programme - Undergraduate - Product Manager - 2027 (UK - London)",
-      "url": "https://careers.americanexpress.com/en/sites/CX_1/jobs",
+      "company": "IBM",
+      "title": "Product Manager Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027 - Lowell",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132983&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027 - BELLEVUE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134108&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027 - One Madison",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133468&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern - RTP 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129913&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
