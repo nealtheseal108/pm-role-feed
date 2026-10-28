@@ -1,6 +1,6 @@
 {
-  "updated": 1793206163,
-  "count": 10,
+  "updated": 1793227026,
+  "count": 8,
   "nyc": 0,
   "roles": [
     {
@@ -37,14 +37,6 @@
     },
     {
       "company": "IBM",
-      "title": "Product Manager Intern 2027 - BELLEVUE",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134108&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Product Manager Intern 2027 - Lowell",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132983&source=WEB_Search_NA",
       "location": "",
@@ -52,17 +44,9 @@
       "src": "careerpage"
     },
     {
-      "company": "IBM",
-      "title": "Product Manager Intern 2027 - One Madison",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133468&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Product Manager Intern 2027 - POUGHKEEPSIE",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=138606&source=WEB_Search_NA",
+      "company": "HashiCorp",
+      "title": "Product Management Intern 2027",
+      "url": "https://www.hashicorp.com/en/careers/early-careers",
       "location": "",
       "nyc": false,
       "src": "careerpage"
