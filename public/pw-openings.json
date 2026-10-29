@@ -1,6 +1,6 @@
 {
-  "updated": 1793262380,
-  "count": 8,
+  "updated": 1793293349,
+  "count": 7,
   "nyc": 0,
   "roles": [
     {
@@ -39,14 +39,6 @@
       "company": "IBM",
       "title": "Product Manager Intern 2027 - Lowell",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132983&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "HashiCorp",
-      "title": "Product Management Intern 2027",
-      "url": "https://www.hashicorp.com/en/careers/early-careers",
       "location": "",
       "nyc": false,
       "src": "careerpage"
