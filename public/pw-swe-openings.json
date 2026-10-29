@@ -1,6 +1,6 @@
 {
-  "updated": 1793227106,
-  "count": 17,
+  "updated": 1793262458,
+  "count": 16,
   "nyc": 0,
   "roles": [
     {
@@ -23,14 +23,6 @@
       "company": "IBM",
       "title": "Software Engineer Intern - Entry Level Sales Program 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129258&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "AI Software Engineer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -69,16 +61,16 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer - Security - Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131988&source=WEB_Search_NA",
+      "title": "Software Developer Intern 2027 - CAMBRIDGE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern 2027 - CAMBRIDGE",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
+      "title": "Software Developer - Security - Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131988&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
