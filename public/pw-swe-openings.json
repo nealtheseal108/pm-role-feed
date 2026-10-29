@@ -1,7 +1,7 @@
 {
-  "updated": 1793293428,
-  "count": 16,
-  "nyc": 0,
+  "updated": 1793314261,
+  "count": 15,
+  "nyc": 1,
   "roles": [
     {
       "company": "Epic Systems",
@@ -12,9 +12,9 @@
       "src": "careerpage"
     },
     {
-      "company": "IBM",
-      "title": "Software Engineer Intern - Entry Level Sales Program 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129258&source=WEB_Search_NA",
+      "company": "Garmin",
+      "title": "SOFTWARE ENGINEER INTERN",
+      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -29,8 +29,8 @@
     },
     {
       "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Poughkeepsie 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130716&source=WEB_Search_NA",
+      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -39,14 +39,6 @@
       "company": "IBM",
       "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -68,11 +60,11 @@
       "src": "careerpage"
     },
     {
-      "company": "Garmin",
-      "title": "SOFTWARE ENGINEER INTERN",
-      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
+      "company": "IBM",
+      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
       "location": "",
-      "nyc": false,
+      "nyc": true,
       "src": "careerpage"
     },
     {

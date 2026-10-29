@@ -1,6 +1,6 @@
 {
-  "updated": 1793293349,
-  "count": 7,
+  "updated": 1793314183,
+  "count": 8,
   "nyc": 0,
   "roles": [
     {
@@ -47,6 +47,14 @@
       "company": "Audible",
       "title": "Product Managment Internship",
       "url": "https://www.audiblecareers.com/tech-internships",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Rivian",
+      "title": "Technical Program Management Intern - Product Management Product Development (Spring 2027 Co-Op)",
+      "url": "https://careers.rivian.com/careers-home/jobs/33793?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
