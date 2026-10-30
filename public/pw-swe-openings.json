@@ -1,7 +1,7 @@
 {
-  "updated": 1793349182,
-  "count": 15,
-  "nyc": 1,
+  "updated": 1793379437,
+  "count": 8,
+  "nyc": 0,
   "roles": [
     {
       "company": "Epic Systems",
@@ -9,54 +9,6 @@
       "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer/740",
       "location": "",
       "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Software Developer - Security - Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131988&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Software Developer Intern 2027 - CAMBRIDGE",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
-      "location": "",
-      "nyc": true,
       "src": "careerpage"
     },
     {
@@ -111,14 +63,6 @@
       "company": "Citadel",
       "title": "Software Engineer – Intern (Europe)",
       "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Citadel",
-      "title": "Software Engineer – Intern (Asia)",
-      "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
       "location": "",
       "nyc": false,
       "src": "careerpage"
