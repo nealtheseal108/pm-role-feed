@@ -1,5 +1,5 @@
 {
-  "updated": 1793314261,
+  "updated": 1793349182,
   "count": 15,
   "nyc": 1,
   "roles": [
@@ -7,14 +7,6 @@
       "company": "Epic Systems",
       "title": "Software Developer Intern - Summer 2027",
       "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer/740",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Garmin",
-      "title": "SOFTWARE ENGINEER INTERN",
-      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -45,16 +37,16 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern 2027 - CAMBRIDGE",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
+      "title": "Software Developer - Security - Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131988&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "Software Developer - Security - Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131988&source=WEB_Search_NA",
+      "title": "Software Developer Intern 2027 - CAMBRIDGE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -65,6 +57,14 @@
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
       "location": "",
       "nyc": true,
+      "src": "careerpage"
+    },
+    {
+      "company": "Garmin",
+      "title": "SOFTWARE ENGINEER INTERN",
+      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
+      "location": "",
+      "nyc": false,
       "src": "careerpage"
     },
     {
