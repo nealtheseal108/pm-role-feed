@@ -1,6 +1,6 @@
 {
-  "updated": 1793398702,
-  "count": 8,
+  "updated": 1793435105,
+  "count": 7,
   "nyc": 0,
   "roles": [
     {
@@ -15,14 +15,6 @@
       "company": "Amazon",
       "title": "Product Manager Technical (PMT) Intern - Summer 2027",
       "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Product Management Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136426&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
