@@ -1,12 +1,20 @@
 {
-  "updated": 1793611300,
+  "updated": 1793651001,
   "count": 15,
-  "nyc": 1,
+  "nyc": 0,
   "roles": [
     {
       "company": "Epic Systems",
       "title": "Software Developer Intern - Summer 2027",
       "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer/740",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Garmin",
+      "title": "SOFTWARE ENGINEER INTERN",
+      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -53,14 +61,6 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern 2027 - CAMBRIDGE",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Software Developer - Security - Intern 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131988&source=WEB_Search_NA",
       "location": "",
@@ -69,10 +69,10 @@
     },
     {
       "company": "IBM",
-      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
+      "title": "Software Developer Intern 2027 - CAMBRIDGE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
       "location": "",
-      "nyc": true,
+      "nyc": false,
       "src": "careerpage"
     },
     {
