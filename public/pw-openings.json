@@ -1,6 +1,6 @@
 {
-  "updated": 1793697944,
-  "count": 7,
+  "updated": 1793728610,
+  "count": 9,
   "nyc": 0,
   "roles": [
     {
@@ -21,6 +21,14 @@
     },
     {
       "company": "IBM",
+      "title": "Product Management Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136426&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
       "title": "Product Manager Intern 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA",
       "location": "",
@@ -31,6 +39,14 @@
       "company": "IBM",
       "title": "Product Manager Intern 2027 - Lowell",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132983&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "AI Foundations - Technical Product Management - Internship 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139968&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
