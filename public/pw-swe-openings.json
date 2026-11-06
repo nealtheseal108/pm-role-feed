@@ -1,7 +1,7 @@
 {
-  "updated": 1793986777,
-  "count": 16,
-  "nyc": 1,
+  "updated": 1794007138,
+  "count": 7,
+  "nyc": 0,
   "roles": [
     {
       "company": "Epic Systems",
@@ -17,62 +17,6 @@
       "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "AI Software Engineer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Software Developer Intern/Tucson-AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Software Developer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129661&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Software Developer Intern 2027 - CAMBRIDGE",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
-      "location": "",
-      "nyc": true,
       "src": "careerpage"
     },
     {
@@ -111,22 +55,6 @@
       "company": "Google",
       "title": "Share Software Engineering Intern, 2027 (English)",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Citadel",
-      "title": "Software Engineer – Intern (US)",
-      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "Citadel",
-      "title": "Software Engineer – Intern (Europe)",
-      "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
       "location": "",
       "nyc": false,
       "src": "careerpage"
