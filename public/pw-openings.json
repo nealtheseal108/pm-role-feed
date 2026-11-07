@@ -1,6 +1,6 @@
 {
-  "updated": 1794068933,
-  "count": 9,
+  "updated": 1794088367,
+  "count": 10,
   "nyc": 0,
   "roles": [
     {
@@ -15,6 +15,14 @@
       "company": "Amazon",
       "title": "Product Manager Technical (PMT) Intern - Summer 2027",
       "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Product Management Intern (Summer 2027)",
+      "url": "https://careers.snowflake.com/us/en/job/SNCOUSB282FC4CD041487A8444EAB095749368EXTERNALENUS322B82F64B184F86AE34007F55C4BDBF/Product-Management-Intern-Summer-2027",
       "location": "",
       "nyc": false,
       "src": "careerpage"
