@@ -1,7 +1,7 @@
 {
-  "updated": 1794007138,
-  "count": 7,
-  "nyc": 0,
+  "updated": 1794042005,
+  "count": 15,
+  "nyc": 1,
   "roles": [
     {
       "company": "Epic Systems",
@@ -20,9 +20,73 @@
       "src": "careerpage"
     },
     {
+      "company": "IBM",
+      "title": "AI Software Engineer Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137214&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Software Developer Intern/Tucson-AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Software Developer Intern 2027 - CAMBRIDGE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
+      "location": "",
+      "nyc": true,
+      "src": "careerpage"
+    },
+    {
       "company": "SAP",
       "title": "SAP Labs iXp Intern - Software Developer",
       "url": "https://jobs.sap.com/en/jobs/744000160236955/sap-labs-ixp-intern-software-developer/",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineering Intern, 2027 (English)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/104489346874122950-software-engineering-intern-2027-english?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Share Software Engineering Intern, 2027 (English)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -44,17 +108,17 @@
       "src": "careerpage"
     },
     {
-      "company": "Google",
-      "title": "Software Engineering Intern, 2027 (English)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/104489346874122950-software-engineering-intern-2027-english?employment_type=INTERN&q=software%20engineering%20intern",
+      "company": "Citadel",
+      "title": "Software Engineer – Intern (US)",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
-      "company": "Google",
-      "title": "Share Software Engineering Intern, 2027 (English)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
+      "company": "Citadel",
+      "title": "Software Engineer – Intern (Europe)",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
       "location": "",
       "nyc": false,
       "src": "careerpage"
