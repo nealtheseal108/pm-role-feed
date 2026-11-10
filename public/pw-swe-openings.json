@@ -1,6 +1,6 @@
 {
-  "updated": 1794333340,
-  "count": 14,
+  "updated": 1794352835,
+  "count": 16,
   "nyc": 1,
   "roles": [
     {
@@ -65,6 +65,22 @@
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
       "location": "",
       "nyc": true,
+      "src": "careerpage"
+    },
+    {
+      "company": "SAP",
+      "title": "SAP iXp Intern - Full-Stack Software Engineer",
+      "url": "https://jobs.sap.com/en/jobs/744000160967354/sap-ixp-intern-full-stack-software-engineer/",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "SAP",
+      "title": "SAP iXp Intern – Concur Travel Core & AI Software Developer",
+      "url": "https://jobs.sap.com/en/jobs/744000160955034/sap-ixp-intern-concur-travel-core-ai-software-developer/",
+      "location": "",
+      "nyc": false,
       "src": "careerpage"
     },
     {
