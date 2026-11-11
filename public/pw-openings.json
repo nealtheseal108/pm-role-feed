@@ -1,6 +1,6 @@
 {
-  "updated": 1794388693,
-  "count": 9,
+  "updated": 1794420479,
+  "count": 8,
   "nyc": 0,
   "roles": [
     {
@@ -63,14 +63,6 @@
       "company": "Rivian",
       "title": "Technical Program Management Intern - Product Management Product Development (Spring 2027 Co-Op)",
       "url": "https://careers.rivian.com/careers-home/jobs/33793?lang=en-us&previousLocale=en-US",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "AMD",
-      "title": "Summer 2027 Long Term Product Management Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/90411?lang=en-us",
       "location": "",
       "nyc": false,
       "src": "careerpage"
