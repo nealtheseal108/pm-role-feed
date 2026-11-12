@@ -1,7 +1,7 @@
 {
-  "updated": 1794507858,
-  "count": 16,
-  "nyc": 1,
+  "updated": 1794527340,
+  "count": 17,
+  "nyc": 2,
   "roles": [
     {
       "company": "Epic Systems",
@@ -29,6 +29,14 @@
     },
     {
       "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
       "title": "Software Developer Intern/Tucson-AZ",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
       "location": "",
@@ -37,10 +45,10 @@
     },
     {
       "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
+      "title": "IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129927&source=WEB_Search_NA",
       "location": "",
-      "nyc": false,
+      "nyc": true,
       "src": "careerpage"
     },
     {
