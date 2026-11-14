@@ -1,12 +1,28 @@
 {
-  "updated": 1794674898,
-  "count": 15,
-  "nyc": 1,
+  "updated": 1794695036,
+  "count": 17,
+  "nyc": 2,
   "roles": [
     {
       "company": "Epic Systems",
       "title": "Software Developer Intern - Summer 2027",
       "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer/740",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineering Intern (ISET-IN-2)",
+      "url": "https://careers.rtx.com/global/en/job/01888017/Software-Engineering-Intern-ISET-IN-2",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://careers.rtx.com/global/en/job/01888055/Software-Engineering-Intern-Summer-2027",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -29,16 +45,16 @@
     },
     {
       "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
+      "title": "Software Developer Intern-Rochester, MN",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern-Rochester, MN",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -85,10 +101,10 @@
     },
     {
       "company": "IBM",
-      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
+      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
       "location": "",
-      "nyc": false,
+      "nyc": true,
       "src": "careerpage"
     },
     {
