@@ -1,7 +1,7 @@
 {
-  "updated": 1794821417,
+  "updated": 1794860995,
   "count": 13,
-  "nyc": 2,
+  "nyc": 1,
   "roles": [
     {
       "company": "Epic Systems",
@@ -29,14 +29,6 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern/Tucson-AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Software Developer Intern-Rochester, MN",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
       "location": "",
@@ -47,6 +39,14 @@
       "company": "IBM",
       "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Software Developer Intern/Tucson-AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -85,23 +85,23 @@
     },
     {
       "company": "IBM",
-      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
-      "location": "",
-      "nyc": true,
-      "src": "careerpage"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineering Intern, 2027 (English)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/104489346874122950-software-engineering-intern-2027-english?employment_type=INTERN&q=software%20engineering%20intern",
+      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "Google",
-      "title": "Share Software Engineering Intern, 2027 (English)",
+      "title": "Software Engineering Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/95046224276529862-software-engineering-intern-summer-2027?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Google",
+      "title": "Share Software Engineering Intern, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
       "location": "",
       "nyc": false,
