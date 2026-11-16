@@ -1,7 +1,7 @@
 {
-  "updated": 1794783358,
+  "updated": 1794821417,
   "count": 13,
-  "nyc": 1,
+  "nyc": 2,
   "roles": [
     {
       "company": "Epic Systems",
@@ -29,6 +29,14 @@
     },
     {
       "company": "IBM",
+      "title": "Software Developer Intern/Tucson-AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
       "title": "Software Developer Intern-Rochester, MN",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
       "location": "",
@@ -39,14 +47,6 @@
       "company": "IBM",
       "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Software Developer Intern/Tucson-AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -85,10 +85,10 @@
     },
     {
       "company": "IBM",
-      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
+      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
       "location": "",
-      "nyc": false,
+      "nyc": true,
       "src": "careerpage"
     },
     {
