@@ -1,7 +1,7 @@
 {
-  "updated": 1794963822,
+  "updated": 1794996944,
   "count": 14,
-  "nyc": 2,
+  "nyc": 1,
   "roles": [
     {
       "company": "Epic Systems",
@@ -93,10 +93,10 @@
     },
     {
       "company": "IBM",
-      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
+      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
       "location": "",
-      "nyc": true,
+      "nyc": false,
       "src": "careerpage"
     },
     {
