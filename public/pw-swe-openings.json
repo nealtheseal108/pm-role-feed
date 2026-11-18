@@ -1,6 +1,6 @@
 {
-  "updated": 1794912383,
-  "count": 13,
+  "updated": 1794963822,
+  "count": 14,
   "nyc": 2,
   "roles": [
     {
@@ -13,8 +13,16 @@
     },
     {
       "company": "Garmin",
+      "title": "SOFTWARE ENGINEER INTERN - REAL TIME AVIATION DATA",
+      "url": "https://careers.garmin.com/jobs/20081?lang=en-us&previousLocale=en-US",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Garmin",
       "title": "SOFTWARE ENGINEER INTERN",
-      "url": "https://careers.garmin.com/jobs/20129?lang=en-us&previousLocale=en-US",
+      "url": "https://careers.garmin.com/jobs/20081?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
