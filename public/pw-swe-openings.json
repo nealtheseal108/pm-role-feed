@@ -1,5 +1,5 @@
 {
-  "updated": 1795029109,
+  "updated": 1795083731,
   "count": 14,
   "nyc": 1,
   "roles": [
@@ -37,14 +37,6 @@
     },
     {
       "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Software Developer Intern/Tucson-AZ",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
       "location": "",
@@ -55,6 +47,14 @@
       "company": "IBM",
       "title": "Software Developer Intern-Rochester, MN",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
