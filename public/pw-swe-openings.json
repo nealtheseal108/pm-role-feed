@@ -1,6 +1,6 @@
 {
-  "updated": 1795169581,
-  "count": 13,
+  "updated": 1795200905,
+  "count": 12,
   "nyc": 1,
   "roles": [
     {
@@ -53,26 +53,10 @@
     },
     {
       "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130735&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY - 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129927&source=WEB_Search_NA",
       "location": "",
       "nyc": true,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
-      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134679&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
       "src": "careerpage"
     },
     {
@@ -85,8 +69,16 @@
     },
     {
       "company": "IBM",
-      "title": "Sales Configuration Developer Intern 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135618&source=WEB_Search_NA",
+      "title": "Software Developer Intern 2027 - Austin",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133131&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
