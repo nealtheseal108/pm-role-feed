@@ -1,7 +1,7 @@
 {
-  "updated": 1795200905,
-  "count": 12,
-  "nyc": 1,
+  "updated": 1795254190,
+  "count": 14,
+  "nyc": 2,
   "roles": [
     {
       "company": "Epic Systems",
@@ -69,6 +69,14 @@
     },
     {
       "company": "IBM",
+      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
       "title": "Software Developer Intern 2027 - Austin",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133131&source=WEB_Search_NA",
       "location": "",
@@ -77,10 +85,10 @@
     },
     {
       "company": "IBM",
-      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
+      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
       "location": "",
-      "nyc": false,
+      "nyc": true,
       "src": "careerpage"
     },
     {
@@ -95,6 +103,14 @@
       "company": "Google",
       "title": "Share Software Engineering Intern, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software%20engineering%20intern",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Security Software Engineer Intern",
+      "url": "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/",
       "location": "",
       "nyc": false,
       "src": "careerpage"
