@@ -1,5 +1,5 @@
 {
-  "updated": 1795391093,
+  "updated": 1795430859,
   "count": 14,
   "nyc": 2,
   "roles": [
@@ -37,16 +37,16 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern/Tucson-AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
+      "title": "Software Developer Intern-Rochester, MN",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern-Rochester, MN",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
+      "title": "Software Developer Intern/Tucson-AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -69,16 +69,16 @@
     },
     {
       "company": "IBM",
-      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
+      "title": "Software Developer Intern 2027 - Austin",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133131&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern 2027 - Austin",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133131&source=WEB_Search_NA",
+      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
