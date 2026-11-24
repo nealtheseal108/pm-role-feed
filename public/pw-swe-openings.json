@@ -1,7 +1,7 @@
 {
-  "updated": 1795430859,
+  "updated": 1795493980,
   "count": 14,
-  "nyc": 2,
+  "nyc": 1,
   "roles": [
     {
       "company": "Epic Systems",
@@ -23,6 +23,14 @@
       "company": "Garmin",
       "title": "SOFTWARE ENGINEER INTERN",
       "url": "https://careers.garmin.com/jobs/20081?lang=en-us&previousLocale=en-US",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "Garmin",
+      "title": "SOFTWARE ENGINEERING INTERN (WEB/MOBILE)",
+      "url": "https://careers.garmin.com/jobs/20055?lang=en-us&previousLocale=en-US",
       "location": "",
       "nyc": false,
       "src": "careerpage"
@@ -53,14 +61,6 @@
     },
     {
       "company": "IBM",
-      "title": "IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129927&source=WEB_Search_NA",
-      "location": "",
-      "nyc": true,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
       "location": "",
@@ -69,16 +69,16 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern 2027 - Austin",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133131&source=WEB_Search_NA",
+      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
+      "title": "Software Developer Intern 2027 - Austin",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133131&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
