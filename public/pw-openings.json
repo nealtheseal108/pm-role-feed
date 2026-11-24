@@ -1,6 +1,6 @@
 {
-  "updated": 1795493901,
-  "count": 4,
+  "updated": 1795553841,
+  "count": 8,
   "nyc": 0,
   "roles": [
     {
@@ -15,6 +15,38 @@
       "company": "Amazon",
       "title": "Product Manager Technical (PMT) Intern - Summer 2027",
       "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Management Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136426&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128509&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "Product Manager Intern 2027 - Lowell",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132983&source=WEB_Search_NA",
+      "location": "",
+      "nyc": false,
+      "src": "careerpage"
+    },
+    {
+      "company": "IBM",
+      "title": "AI Foundations - Technical Product Management - Internship 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139968&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
