@@ -1,6 +1,6 @@
 {
-  "updated": 1795605768,
-  "count": 13,
+  "updated": 1795658768,
+  "count": 12,
   "nyc": 0,
   "roles": [
     {
@@ -45,14 +45,6 @@
     },
     {
       "company": "IBM",
-      "title": "Software Developer Intern-Rochester, MN",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
-      "location": "",
-      "nyc": false,
-      "src": "careerpage"
-    },
-    {
-      "company": "IBM",
       "title": "Software Developer Intern/Tucson-AZ",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
       "location": "",
@@ -61,16 +53,16 @@
     },
     {
       "company": "IBM",
-      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
+      "title": "Software Developer Intern-Rochester, MN",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
     },
     {
       "company": "IBM",
-      "title": "QA/Test Automation Developer Intern - Tucson, AZ",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142564&source=WEB_Search_NA",
+      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
       "location": "",
       "nyc": false,
       "src": "careerpage"
